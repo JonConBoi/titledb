@@ -5018,6 +5018,57 @@
         ],
         "size": 2518679552
     },
+    "70010000020400": {
+        "id": "0100C4C00E73E000",
+        "rightsId": null,
+        "name": "Moving Out",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200428,
+        "nsuId": 70010000020400,
+        "category": [
+            "Strategy",
+            "Multiplayer",
+            "Simulation",
+            "Party"
+        ],
+        "ratingContent": [
+            "Mild Cartoon Violence"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Team17",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7606a0e2bb7664a3d0130cca0aab409a2fce42eb7eadd5dfd00612d4dd2f8284.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/168bf363103f7ee37aa05513b380b76c1fa94724bf28846bc3e16deb290cf2af.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7658c955d0b1f70341a2a4165e78813f258586c50a308bcb3a45e5eff649abcd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7058aefad54efb872ee9e354b2a081975696814a8fa42c7c2f68cb3a1f2daede.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ee44c59f55c865f2a01c4433224dcd65b4a4958cefa8a9f1e2885ca52d523f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9326b4f8a769a9db785e7bc76acfc100ad63f36aafb45f9bcd0079d36b64995d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8d1fc9195cb0bbedec96c54327bdef83f37ae28961865c3e9df0a3402c48082.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7363635471c7d5a89d6770d53d6c441a539b7351f8a1758f1ff195cdc262085f.jpg",
+        "intro": "Moving Out is a ridiculous physics-based moving simulator that brings new meaning to \"couch co-op\"!",
+        "description": "Are you ready for an exciting career in furniture? As a newly certified Furniture Arrangement & Relocation Technician, you\u2019ll take on moving jobs all across the town of Packmore. \n\nSmooth Moves may not be the biggest moving company, but there\u2019s no task too dangerous or strange for this busy team of go-getters. Grow your business to brave new heights, recruit colourful customizable characters, and save your town from furniture peril!\n\nWhat does Smooth Moves have to offer, you ask?\n\nCo-op!\nEnjoy the story mode solo as an independent contractor or team up with some friends. Up to four players can cozy up on the couch to argue over the best way to move a couch. Test your skills AND your friendship!\n\nPhysics!\nAre pesky doors and windows standing in your furniture\u2019s way? Just blast through them with physics! Lift, toss and smash your way to the fastest times!\n\nAction!\nLearn the ropes in a series of increasingly precarious and fantastical moving jobs. How a bed gets from point A to point B is never a straight line, so throw out the training manual and get creative!\n\nAdventure!\nEvery moving company starts small, but as your reputation ranks up, so do your destinations. Move through sleepy suburbs, frenzied farms, haunted houses, virtual reality and lands beyond!\n\nCharacters!\nRecruit a unique cast of colorful characters, each packed with a passion for manual labor!\n\nAssist Mode!\nAre you a rookie? No problem! Adjust the game\u2019s difficulty so anyone can play!\n\nDon\u2019t wait! Grab your friends and become a certified moving master in Moving Out today!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1089470464
+    },
     "70010000020674": {
         "id": "0100B7000D89E000",
         "rightsId": null,
@@ -5925,6 +5976,52 @@
         ],
         "size": 0
     },
+    "70010000029351": {
+        "id": "0100BAC011928000",
+        "rightsId": null,
+        "name": "Deadly Premonition 2: A Blessing In Disguise",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200710,
+        "nsuId": 70010000029351,
+        "category": [
+            "Adventure",
+            "Action"
+        ],
+        "ratingContent": [
+            "Blood and Gore",
+            "Use of Drugs",
+            "Violence"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Rising Star Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/617d7036adac99719b364c30d70a75dd4bbb7a63278f5ef35d6d266e012ae5ff.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cf09437d26f79dcac680ef0c5a34a853e2e4765811340743cdfbae6a36723bcc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba3247ef93bad2d5a2a27058eeef1cbfb4f2fafb753c11d6bb85f9396c0b8cdf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18b9ccd41f5963ff53d77bdbb868d99f92584d2761666aa60207c3c985a226e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/532c74bce8a01fc1610a6cd334138f2fd9ae0a8ff2951979c0f3c7a86be0f597.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30fbdf5fbf3f5790a7cd7a270a523e8b482287164354a26f8a191e69f3eb0474.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/114e71c9859fa50e9b873905566f0f4343ed8b0518061e78cecd01ce4c79982a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/390e1ea1ec5e61d7c8e857c5d2f02e75e9b38a804bc2afa596ffbf38a841ebdd.jpg",
+        "intro": null,
+        "description": "The true sequel to Deadly Premonition is coming to Nintendo Switch.\n\nIn the year 2005, FBI agent York visits Le Carr\u00e9, a small town in New Orleans where he encounters a mysterious serial murder case alongside his \u201cfriend\u201d Zach.\n\nProduced by the original creator team. The story takes place in a small town in New Orleans which was created based on research and interviews.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 5234491392
+    },
     "70010000029711": {
         "id": "0100FF500E34A000",
         "rightsId": null,
@@ -6010,7 +6107,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6d0cf8758e634a00d201ce0784e48f13c643b1b935f286d82689bf0a56a1f5e6.jpg",
         "intro": "Discover and play 51 tabletop games from around the world!",
-        "description": "Play and discover 51 board games, tabletop games, and more all in one package\u2014Clubhouse Games\u2122: 51 Worldwide Classics. This diverse collection includes games from all over the world across multiple genres, from familiar favorites like Chess to international hits like Mancala that have been around for 100s of years!\n\nEnjoy familiar favorites and learn hidden gems from around the world in this collection of 51 board games, tabletop games and more! Whether you like to sit and strategize or rely on reflexes, Clubhouse Games: 51 Worldwide Classics contains games from across an array of genres for you to play and discover. Each game is presented with stunning detail as dice clack and marbles glimmer.\n\nStrategic players will feel right at home with games like Four-in-a-row and Renegade, while those who prefer to use their reflexes can enjoy games like Slot Cars and Toy Boxing!\n\nWith board games, card games, sports, solitaires and more, Clubhouse Games: 51 Worldwide Classics is an eclectic collection of games to play and discover on your Nintendo Switch.\n\n\u30fbEnjoy 51 tabletop games and more from all over the world from the convenience of your Nintendo Switch\u2122 system\n\n\u30fbPlay your favorite games or explore and learn new ones\n\n\u30fbPlay alone or with friends locally* and online** up to four players",
+        "description": "Play and discover 51 board games, tabletop games, and more all in one package\u2014Clubhouse GamesTM: 51 Worldwide Classics. This diverse collection includes games from all over the world across multiple genres, from familiar favorites like Chess to international hits like Mancala that have been around for 100s of years!\n\nEnjoy familiar favorites and learn hidden gems from around the world in this collection of 51 board games, tabletop games and more! Whether you like to sit and strategize or rely on reflexes, Clubhouse Games: 51 Worldwide Classics contains games from across an array of genres for you to play and discover. Each game is presented with stunning detail as dice clack, marbles glimmer, and chess pieces tumble off the board when it\u2019s jostled.\n\nYou can brush up on your skills or learn a new game through helpful in-game tutorials, assist features, and even an Undo button in certain games. Strategic players will feel right at home with games like Four-in-a-row and Renegade, while those who prefer to use their reflexes can enjoy games like Slot Cars and Toy Boxing! \n\nBring all 51 games on the go in handheld mode or play on the big screen for your next game night. Gather some friends and line up multiple Nintendo Switch systems in tabletop mode for Mosaic Mode***, which allows the action to spread across up to four screens in certain games! In this mode you can build dozens of Slot Cars racetracks or turn a pond into a river for more fishing fun.\n\nPass a Joy-Con to a friend** to play on a single system or connect to the internet* and play with friends or anyone around the world. If you want some solo practice, multiple difficulty levels of CPU opponents make for tough competition. Each time you play a game, you\u2019ll unlock pieces of trivia filled with fun facts, bits of history, and more!\n\nIn the free supplementary software available on Nintendo eShop, connect with someone who has the full game to play all games that support Local Play! With board games, card games, sports, solitaires, and even a piano keyboard, Clubhouse Games: 51 Worldwide Classics is an eclectic collection of games to play and discover on your Nintendo Switch system.\n\n\n\u30fbEnjoy 51 tabletop games and more from all over the world from the convenience of your Nintendo Switch\u2122 system\n\n\u30fbPlay your favorite games or explore and learn new ones\n\n\u30fbPlay alone or with friends locally*** and online* up to four players",
         "languages": [
             "ja",
             "en",

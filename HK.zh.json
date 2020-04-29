@@ -19101,6 +19101,48 @@
         ],
         "size": 4188012544
     },
+    "70010000031020": {
+        "id": "0100BAC011928000",
+        "rightsId": null,
+        "name": "Deadly Premonition 2: A Blessing In Disguise",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200710,
+        "nsuId": 70010000031020,
+        "category": [
+            "\u52d5\u4f5c",
+            "\u5192\u96aa"
+        ],
+        "ratingContent": [],
+        "numberOfPlayers": 1,
+        "rating": null,
+        "developer": null,
+        "publisher": "Rising Star Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/617d7036adac99719b364c30d70a75dd4bbb7a63278f5ef35d6d266e012ae5ff.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cf09437d26f79dcac680ef0c5a34a853e2e4765811340743cdfbae6a36723bcc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba3247ef93bad2d5a2a27058eeef1cbfb4f2fafb753c11d6bb85f9396c0b8cdf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18b9ccd41f5963ff53d77bdbb868d99f92584d2761666aa60207c3c985a226e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/532c74bce8a01fc1610a6cd334138f2fd9ae0a8ff2951979c0f3c7a86be0f597.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30fbdf5fbf3f5790a7cd7a270a523e8b482287164354a26f8a191e69f3eb0474.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/114e71c9859fa50e9b873905566f0f4343ed8b0518061e78cecd01ce4c79982a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/390e1ea1ec5e61d7c8e857c5d2f02e75e9b38a804bc2afa596ffbf38a841ebdd.jpg",
+        "intro": null,
+        "description": "Deadly Premonition\uff08\u81f4\u547d\u9810\u611f\uff09\u7684\u5b8c\u7f8e\u7e8c\u4f5c\u5373\u5c07\u767b\u9678Nintendo Switch\u3002\n2005\u5e74\uff0c\u806f\u90a6\u8abf\u67e5\u5c40\u7279\u5de5\u7d04\u514b\u4f86\u5230\u7d10\u5967\u826f\u7684\u4e00\u5ea7\u53ebLe Carr\u00e9\u7684\u5c0f\u93ae\uff0c\u8207\u4ed6\u7684\u201c\u597d\u53cb\u201d\u624e\u514b\u4e00\u8d77\u906d\u9047\u4e86\u4e00\u5b97\u795e\u79d8\u7684\u9023\u74b0\u8b00\u6bba\u6848\u3002\n\u7531\u539f\u73ed\u4eba\u99ac\u5236\u4f5c\u3002\u6545\u4e8b\u767c\u751f\u5728\u7d10\u5967\u826f\u7684\u4e00\u5ea7\u5c0f\u93ae\uff0c\u6839\u64da\u8abf\u67e5\u8207\u8a2a\u8ac7\u5167\u5bb9\u5275\u4f5c\u5b8c\u6210\u3002",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 5234491392
+    },
     "70010000031077": {
         "id": "010062200D392000",
         "rightsId": null,

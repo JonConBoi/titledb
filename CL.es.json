@@ -5018,6 +5018,57 @@
         ],
         "size": 2518679552
     },
+    "70010000020400": {
+        "id": "0100C4C00E73E000",
+        "rightsId": null,
+        "name": "Moving Out",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200428,
+        "nsuId": 70010000020400,
+        "category": [
+            "Estrategia",
+            "Multijugador",
+            "Simulaci\u00f3n",
+            "Fiesta"
+        ],
+        "ratingContent": [
+            "Violencia moderada en caricaturas"
+        ],
+        "numberOfPlayers": 4,
+        "rating": 6,
+        "developer": null,
+        "publisher": "Team17",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/7606a0e2bb7664a3d0130cca0aab409a2fce42eb7eadd5dfd00612d4dd2f8284.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/168bf363103f7ee37aa05513b380b76c1fa94724bf28846bc3e16deb290cf2af.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7658c955d0b1f70341a2a4165e78813f258586c50a308bcb3a45e5eff649abcd.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7058aefad54efb872ee9e354b2a081975696814a8fa42c7c2f68cb3a1f2daede.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/5ee44c59f55c865f2a01c4433224dcd65b4a4958cefa8a9f1e2885ca52d523f7.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9326b4f8a769a9db785e7bc76acfc100ad63f36aafb45f9bcd0079d36b64995d.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/e8d1fc9195cb0bbedec96c54327bdef83f37ae28961865c3e9df0a3402c48082.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/7363635471c7d5a89d6770d53d6c441a539b7351f8a1758f1ff195cdc262085f.jpg",
+        "intro": "\u00a1Moving Out es un divertido simulador de mudanzas basado en la f\u00edsica que da un nuevo significado al modo cooperativo!",
+        "description": "\u00bfListo para ser un experto en mudanzas? Como nuevo t\u00e9cnico certificado en traslado y colocaci\u00f3n de muebles, te encargar\u00e1s de los trabajos de mudanza en todo Packmore. \n\nTal vez Smooth Moves no sea la mejor compa\u00f1\u00eda de mudanzas, pero no hay una tarea demasiado peligrosa o extra\u00f1a para este ocupado equipo de emprendedores. \u00a1Haz crecer tu negocio hacia nuevas dimensiones, recluta a personajes coloridos que puedes personalizar y no dejes que los muebles da\u00f1en tu ciudad!\n\n\u00bfQu\u00e9 te ofrece Smooth Moves?\n\n\u00a1Cooperativo!\nDisfruta del juego en solitario como contratista independiente o forma un equipo con amigos. Hasta cuatro jugadores pueden sentarse c\u00f3modamente en el sof\u00e1 y debatir la mejor manera de mover un sof\u00e1. \u00a1Pon a prueba tus habilidades y tu amistad!\n\n\u00a1F\u00edsica!\n\u00bfHay puertas y ventanas molestas que se interponen en tu traslado? \u00a1Solo expl\u00f3talas con f\u00edsica! \u00a1Carga, lanza y \u00e1brete paso con mayor rapidez!\n\n\u00a1Acci\u00f3n!\nAprende a jugar con una serie de trabajos de mudanza cada vez m\u00e1s precarios y fant\u00e1sticos. El trayecto para que una cama llegue del punto A al B nunca es en l\u00ednea recta, as\u00ed que \u00a1tira la gu\u00eda y usa tu creatividad!\n\n\u00a1Aventura!\nTodas las compa\u00f1\u00edas empiezan siendo peque\u00f1as, pero conforme aumente tu reputaci\u00f3n, tambi\u00e9n lo har\u00e1n tus destinos. \u00a1Trasl\u00e1date por suburbios, granjas, casas embrujadas, realidad virtual y tierras lejanas!\n\n\u00a1Personajes!\n\u00a1Recluta a un equipo de coloridos personajes \u00fanicos con una pasi\u00f3n por el trabajo manual!\n\n\u00a1Modo asistido!\n\u00bfEres principiante? \u00a1No importa! \u00a1Ajusta la dificultad del juego para que todos puedan jugar!\n\n\u00a1Ap\u00farate! \u00a1Re\u00fane a tus amigos y convi\u00e9rtete en un maestro de mudanzas certificado en Moving Out!",
+        "languages": [
+            "ja",
+            "en",
+            "pt",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "ko",
+            "zh",
+            "zh"
+        ],
+        "size": 1089470464
+    },
     "70010000020674": {
         "id": "0100B7000D89E000",
         "rightsId": null,
@@ -5925,6 +5976,52 @@
         ],
         "size": 0
     },
+    "70010000029351": {
+        "id": "0100BAC011928000",
+        "rightsId": null,
+        "name": "Deadly Premonition 2: A Blessing In Disguise",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20200710,
+        "nsuId": 70010000029351,
+        "category": [
+            "Aventura",
+            "Acci\u00f3n"
+        ],
+        "ratingContent": [
+            "Derramamiento de sangre",
+            "Uso de drogas",
+            "Violencia"
+        ],
+        "numberOfPlayers": 1,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Rising Star Games",
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/617d7036adac99719b364c30d70a75dd4bbb7a63278f5ef35d6d266e012ae5ff.jpg",
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cf09437d26f79dcac680ef0c5a34a853e2e4765811340743cdfbae6a36723bcc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/ba3247ef93bad2d5a2a27058eeef1cbfb4f2fafb753c11d6bb85f9396c0b8cdf.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/18b9ccd41f5963ff53d77bdbb868d99f92584d2761666aa60207c3c985a226e4.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/532c74bce8a01fc1610a6cd334138f2fd9ae0a8ff2951979c0f3c7a86be0f597.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/30fbdf5fbf3f5790a7cd7a270a523e8b482287164354a26f8a191e69f3eb0474.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/114e71c9859fa50e9b873905566f0f4343ed8b0518061e78cecd01ce4c79982a.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/390e1ea1ec5e61d7c8e857c5d2f02e75e9b38a804bc2afa596ffbf38a841ebdd.jpg",
+        "intro": null,
+        "description": "La verdadera secuela de Deadly Premonition llega a Nintendo Switch.\n\nA\u00f1o 2005. El agente York del FBI visita Le Carr\u00e9, una peque\u00f1a localidad de Nueva Orleans, donde se encuentra el caso de un misterioso asesino en serie junto a su \"amigo\" Zach.\n\nProducido por el equipo de desarrollo del t\u00edtulo original, este juego se enmarca en un escenario para cuya creaci\u00f3n se llev\u00f3 a cabo una labor de documentaci\u00f3n y se realizaron entrevistas.",
+        "languages": [
+            "ja",
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it"
+        ],
+        "size": 5234491392
+    },
     "70010000029711": {
         "id": "0100FF500E34A000",
         "rightsId": null,
@@ -6010,7 +6107,7 @@
         ],
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6d0cf8758e634a00d201ce0784e48f13c643b1b935f286d82689bf0a56a1f5e6.jpg",
         "intro": "\u00a1Descubre y juega 51 juegos de mesa de alrededor del mundo!",
-        "description": "\u00a1Juega y descubre 51 juegos de mesa, de tablero y m\u00e1s, en un solo paquete! Esta diversa colecci\u00f3n incluye juegos de alrededor del mundo pertenecientes a diferentes g\u00e9neros, desde populares juegos familiares como el ajedrez, hasta \u00e9xitos internacionales -como el mancala-, que han existido por cientos a\u00f1os.\n\n\u00a1Divi\u00e9rtete con juegos populares y descubre joyas ocultas de alrededor del mundo en esta colecci\u00f3n de 51 juegos de mesa y m\u00e1s! Ya sea que te guste planear cada movimiento o que prefieras confiar en tus reflejos, esta colecci\u00f3n contiene juegos de una diversa gama de g\u00e9neros para conocer y disfrutar. Cada juego est\u00e1 presentado con impecable atenci\u00f3n al detalle, como el sonido de los dados al agitarlos, y los reflejos en las canicas.\n\nLos jugadores que disfrutan del g\u00e9nero de estrategia la pasar\u00e1n en grande jugando cuatro en raya o renegado; mientras que aquellos que prefieren usar sus reflejos podr\u00e1n divertirse con juegos como carreras de coches y boxeo.\n\nCon juegos de mesa, cartas, deportes, diferentes tipos de solitario y m\u00e1s, esta es una colecci\u00f3n ecl\u00e9ctica para jugar y descubrir en tu consola Nintendo Switch.\n\n\u30fbDisfruta de 51 juegos de mesa y m\u00e1s de alrededor del mundo desde la comodidad de tu consola Nintendo Switch.\n\n\u30fbDisfruta de tus juegos favoritos o explora y aprende juegos nuevos.\n\n\u30fbJuega por tu cuenta o con amigos en modo local* o en l\u00ednea**, hasta cuatro jugadores.\n\n",
+        "description": "\u00a1Juega y descubre 51 juegos de tablero, de mesa y m\u00e1s, en un solo paquete! Esta diversa colecci\u00f3n incluye juegos de alrededor del mundo pertenecientes a diferentes g\u00e9neros, desde populares juegos familiares como el ajedrez, hasta \u00e9xitos internacionales -como el mancala-, que han existido por cientos a\u00f1os.\n\n\u00a1Divi\u00e9rtete con juegos populares y descubre joyas ocultas de alrededor del mundo en esta colecci\u00f3n de 51 juegos de mesa y m\u00e1s! Ya sea que te guste planear cada movimiento o que prefieras confiar en tus reflejos, esta colecci\u00f3n contiene juegos de una diversa gama de g\u00e9neros para conocer y disfrutar. Cada juego est\u00e1 presentado con impecable atenci\u00f3n al detalle, como el sonido de los dados al agitarlos, los reflejos en las canicas, y piezas de juego que se caen al mover la mesa.\n\nYa sea que quieras practicar tus habilidades o aprender un juego nuevo, aprovecha los util\u00edsimos tutoriales, la funci\u00f3n de ayuda, e incluso el bot\u00f3n Deshacer que est\u00e1 disponible en algunos juegos. Los jugadores que disfrutan del g\u00e9nero de estrategia la pasar\u00e1n en grande jugando cuatro en raya o renegado; mientras que aquellos que prefieren usar sus reflejos podr\u00e1n divertirse con juegos como carreras de coches y boxeo.\n\nEn tu pr\u00f3xima noche de juegos, lleva contigo los 51 juegos en modo port\u00e1til o juega en la pantalla grande. Re\u00fane a tus amigos y conecten varias consolas Nintendo Switch en modo semiport\u00e1til para jugar en modo Tatami***, lo que permite que la acci\u00f3n se expanda hasta por cuatro pantallas en ciertos juegos. En este modo, podr\u00e1n construir docenas de pistas para las carreras de coches, o convertir un estanque en un r\u00edo para un d\u00eda de pesca m\u00e1s emocionante. \n\nP\u00e1sale un control Joy-Con a un amigo** para jugar en una sola consola o con\u00e9ctate a internet* y juega con amigos o con cualquiera alrededor del mundo. Si prefieres practicar por tu cuenta, podr\u00e1s enfrentarte a oponentes de diferentes niveles de dificultad controlados por el CPU. En cada sesi\u00f3n de juego desbloquear\u00e1s curiosidades sobre el juego, como su historia y m\u00e1s.\n\nEl programa adicional gratuito disponible en Nintendo eShop te permite conectarte con alguien que cuente con la versi\u00f3n completa del juego para acceder a todos los juegos compatibles con el modo de juego local. Con juegos de mesa, cartas, deportes, diferentes tipos de solitario, y hasta un piano, esta es una colecci\u00f3n ecl\u00e9ctica para jugar y descubrir en tu consola Nintendo Switch.\n\n\u30fbDisfruta de 51 juegos de mesa y m\u00e1s de alrededor del mundo desde la comodidad de tu consola Nintendo Switch.\n\n\u30fbDisfruta de tus juegos favoritos o explora y aprende juegos nuevos.\n\n\u30fbJuega por tu cuenta o con amigos en modo local*** o en l\u00ednea*, hasta cuatro jugadores.\n\n",
         "languages": [
             "ja",
             "en",
