@@ -927,11 +927,12 @@
         ],
         "ratingContent": [
             "Sangre",
-            "Lenguaje moderado",
+            "Referencia a drogas",
+            "Lenguaje fuerte",
             "Violencia"
         ],
         "numberOfPlayers": 2,
-        "rating": 13,
+        "rating": 17,
         "developer": null,
         "publisher": "Coffee Stain",
         "frontBoxArt": null,
@@ -2655,7 +2656,7 @@
             "ru",
             "ko"
         ],
-        "size": 10207887360
+        "size": 10264510464
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -2704,7 +2705,7 @@
             "zh",
             "zh"
         ],
-        "size": 1570766848
+        "size": 1569718272
     },
     "70010000011664": {
         "id": "010096000B3EA000",
@@ -3130,7 +3131,7 @@
             "fr",
             "pt"
         ],
-        "size": 148897792
+        "size": 147849216
     },
     "70010000013359": {
         "id": "0100A4400BE74000",
@@ -3279,7 +3280,7 @@
             "zh",
             "zh"
         ],
-        "size": 8162115584
+        "size": 8766095360
     },
     "70010000014081": {
         "id": "0100C9F009F7A000",
@@ -3586,7 +3587,7 @@
         "developer": null,
         "publisher": "WB Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/434d07cbc7844ae2faaa481090eb0ade6c645b43f45adf30daac588d738e0f37.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8d889a1ad2d01219752edfac100a2309aa27889577d5fd2318fd392c95724d87.jpg",
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3d45a55169bcdeccb5fc315d6c0fe7d8f2733a8545e744f1d28b3d68a69083d3.jpg",
         "intro": null,
@@ -3602,7 +3603,7 @@
             "zh",
             "zh"
         ],
-        "size": 26976714752
+        "size": 32756465664
     },
     "70010000015307": {
         "id": "01003BD00CAAE000",
@@ -3957,7 +3958,7 @@
             "zh",
             "zh"
         ],
-        "size": 449839104
+        "size": 452984832
     },
     "70010000016833": {
         "id": "01005DE00D05C000",
@@ -4011,7 +4012,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20190920,
+        "releaseDate": 20200602,
         "nsuId": 70010000016904,
         "category": [
             "Juego de rol",
@@ -4152,7 +4153,7 @@
             "zh",
             "zh"
         ],
-        "size": 749731840
+        "size": 807403520
     },
     "70010000018502": {
         "id": "0100B6400CA56000",
@@ -4786,7 +4787,7 @@
             "ru",
             "ko"
         ],
-        "size": 16101933056
+        "size": 12054429696
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -5225,7 +5226,6 @@
             "Estrategia"
         ],
         "ratingContent": [
-            "Referencia al alcohol",
             "Violencia de fantasia"
         ],
         "numberOfPlayers": 1,
@@ -5302,7 +5302,7 @@
             "ru",
             "zh"
         ],
-        "size": 8827961344
+        "size": 9431941120
     },
     "70010000020891": {
         "id": "010017700B6C2000",
@@ -5770,7 +5770,7 @@
             "fr",
             "pt"
         ],
-        "size": 190840832
+        "size": 199229440
     },
     "70010000025496": {
         "id": "0100D0B00FB74000",
@@ -6618,7 +6618,7 @@
             "zh",
             "zh"
         ],
-        "size": 14670626816
+        "size": 14729347072
     },
     "70010000029716": {
         "id": "010047700D540000",
@@ -6667,7 +6667,7 @@
             "zh",
             "zh"
         ],
-        "size": 2184183808
+        "size": 2494562304
     },
     "70010000029721": {
         "id": "0100B0500FE4E000",
@@ -9166,7 +9166,8 @@
             "Referencia a drogas",
             "Desnudez parcial",
             "Lenguaje fuerte",
-            "Violencia"
+            "Violencia",
+            "Compras dentro del juego"
         ],
         "numberOfPlayers": null,
         "rating": 17,
@@ -11595,7 +11596,7 @@
         "intro": "Levanta tu mejor imperio en Nintendo Switch\u2122",
         "description": "Paquete de expansi\u00f3n que combina Rise and Fall y Gathering Storm y lleva este cl\u00e1sico de la estrategia por turnos a una nueva dimensi\u00f3n. Forjar el imperio m\u00e1s grande es m\u00e1s emocionante que nunca con 16 civilizaciones y 18 l\u00edderes nuevos y mejoras al sistema de juego, como Grandes Eras y un planeta activo donde la geolog\u00eda y el clima presentan nuevos retos.\n\nEl Civilization VI Paquete de expansi\u00f3n tiene todas las caracter\u00edsticas de Rise and Fall y Gathering Storm: \n\n\u2022NUEVOS L\u00cdDERES Y CIVILIZACIONES: 16 civilizaciones y 18 l\u00edderes nuevos, con bonificaciones y sistemas de juego \u00fanicos, adem\u00e1s de unidades, distritos, maravillas, edificios exclusivos y mucho m\u00e1s.\n\n\u2022GRANDES ERAS: seg\u00fan tu civilizaci\u00f3n pase por altibajos y alcances momentos hist\u00f3ricos clave, avanzar\u00e1s hacia una \u00e9poca oscura o una edad de oro, cada una con retos y bonificaciones espec\u00edficas en funci\u00f3n de tus acciones. Resurge de una \u00e9poca oscura y tu siguiente edad de oro ser\u00e1 una \u00e9poca heroica.\n\n\u2022LOYALTY: las ciudades te muestran su Loyalty: si baja demasiado, tendr\u00e1s rendimientos escasos, revueltas y la posible independencia de una ciudad. Pero la p\u00e9rdida puede ser favorable si inspiras lealtad a las ciudades del mapa y expandes m\u00e1s tus fronteras.\n\n\u2022GOBERNADORES: recluta, nombra y mejora a personajes poderosos con sus bonificaciones de especializaci\u00f3n y \u00e1rboles de ascenso para modelar tus ciudades y reforzar su lealtad.\n\n\u2022ALIANZAS MEJORADAS: un sistema avanzado de coaliciones permite formar alianzas y conseguir bonificaciones.\n\n\u2022EMERGENCIAS: cuando una civilizaci\u00f3n se vuelve demasiado poderosa, otras pueden pactar para acabar con ella y obtener recompensas o penalizaciones.\n\n\u2022CRONOLOG\u00cdA: repasa tu historia con esta funci\u00f3n, un viaje visual por los momentos hist\u00f3ricos en tu camino a la victoria.\n\n\u2022EFECTOS MEDIOAMBIENTALES: volcanes, tormentas de arena, ventiscas, cambio clim\u00e1tico, inundaciones y sequ\u00edas dan vida al mundo; lo que elija tu asentamiento ser\u00e1 muy importante para equilibrar riesgos y recompensas. \n\n\u2022ENERG\u00cdA Y RECURSOS CONSUMIBLES: los recursos estrat\u00e9gicos tienen se consumen ahora en plantas el\u00e9ctricas para generar energ\u00eda que necesitar\u00e1s generar en los edificios m\u00e1s avanzados quemando recursos de carbono, como el petr\u00f3leo y el carb\u00f3n, pero tambi\u00e9n desbloquear\u00e1s energ\u00edas renovables a medida que avances en las tecnolog\u00edas actuales. Tus elecciones sobre los recursos afectar\u00e1n a la temperatura del mundo y pueden hacer que los casquetes se derritan y suba el nivel del mar. \n\n\u2022DISE\u00d1O DE PROYECTOS: forma el mundo que rodea tu imperio para superar condiciones del terreno con canales, presas, t\u00faneles y ferrocarriles. Al fundar ciudades, no ignores el riesgo de inundaci\u00f3n de las zonas costeras, pero piensa que al final contar\u00e1s con nuevas tecnolog\u00edas para protegerlas.\n\n\u2022CONGRESO MUNDIAL: haz que tu voz se escuche. Gana Favor diplom\u00e1tico con alianzas, influye en las ciudades-estado, compite en los Juegos mundiales y muchas cosas m\u00e1s. \u00dasalo para que los dem\u00e1s l\u00edderes te hagan promesas, votar resoluciones, convocar una Sesi\u00f3n especial para solucionar una emergencia y aumentar el peso de tus votos para conseguir la victoria diplom\u00e1tica. \n\n\u2022PRINCIPIOS Y TECNOLOG\u00cdAS DEL SIGLO XXI: se a\u00f1adi\u00f3 una nueva \u00e9poca al \u00e1rbol tecnol\u00f3gico y de principios. Combate los nuevos efectos medioambientales reubicando la poblaci\u00f3n en ciudades flotantes y desarrollando tecnolog\u00edas para capturar emisiones de carbono.",
         "languages": null,
-        "size": 3832545280
+        "size": 3661627392
     },
     "70050000015201": {
         "id": "0100B6400CA57064",
@@ -12215,7 +12216,7 @@
         "intro": null,
         "description": "Paquete de idioma franc\u00e9s descargable de modo opcional para Overwatch Legendary Edition en Nintendo Switch.",
         "languages": null,
-        "size": 506462208
+        "size": 578813952
     },
     "70050000015641": {
         "id": "0100F8600E21F008",
@@ -12246,7 +12247,7 @@
         "intro": null,
         "description": "Paquete de idioma alem\u00e1n descargable de modo opcional para Overwatch Legendary Edition en Nintendo Switch.",
         "languages": null,
-        "size": 562036736
+        "size": 613416960
     },
     "70050000015642": {
         "id": "0100F8600E21F004",
@@ -12277,7 +12278,7 @@
         "intro": null,
         "description": "Paquete de idioma italiano descargable de modo opcional para Overwatch Legendary Edition en Nintendo Switch.",
         "languages": null,
-        "size": 540016640
+        "size": 590348288
     },
     "70050000015643": {
         "id": "0100F8600E21F009",
@@ -12308,7 +12309,7 @@
         "intro": null,
         "description": "Paquete de idioma portugu\u00e9s brasile\u00f1o descargable de modo opcional para Overwatch Legendary Edition en Nintendo Switch.",
         "languages": null,
-        "size": 565182464
+        "size": 619708416
     },
     "70050000015644": {
         "id": "0100F8600E21F005",
@@ -12339,7 +12340,7 @@
         "intro": null,
         "description": "Paquete de idioma ruso descargable de modo opcional para Overwatch Legendary Edition en Nintendo Switch.",
         "languages": null,
-        "size": 535822336
+        "size": 589299712
     },
     "70050000015645": {
         "id": "0100F8600E21F002",
@@ -12370,7 +12371,7 @@
         "intro": null,
         "description": "Paquete de idioma espa\u00f1ol castellano descargable de modo opcional para Overwatch Legendary Edition en Nintendo Switch.",
         "languages": null,
-        "size": 564133888
+        "size": 611319808
     },
     "70050000015646": {
         "id": "0100F8600E21F003",
@@ -12401,7 +12402,7 @@
         "intro": null,
         "description": "Paquete de idioma espa\u00f1ol latinoamericano descargable de modo opcional para Overwatch Legendary Edition en Nintendo Switch.",
         "languages": null,
-        "size": 570425344
+        "size": 621805568
     },
     "70050000015647": {
         "id": "0100F8600E21F00D",
@@ -12432,7 +12433,7 @@
         "intro": null,
         "description": "Paquete de idioma japon\u00e9s descargable de modo opcional para Overwatch Legendary Edition en Nintendo Switch.",
         "languages": null,
-        "size": 487587840
+        "size": 537919488
     },
     "70050000015648": {
         "id": "0100F8600E21F00A",
@@ -12463,7 +12464,7 @@
         "intro": null,
         "description": "Paquete de idioma coreano descargable de modo opcional para Overwatch Legendary Edition en Nintendo Switch.",
         "languages": null,
-        "size": 540016640
+        "size": 594542592
     },
     "70050000015961": {
         "id": "0100F2200C985012",
@@ -15350,7 +15351,7 @@
     "70050000019712": {
         "id": "0100F2200C985017",
         "rightsId": null,
-        "name": "AM Preorder DLC",
+        "name": "Paquete de Skins Konflicto Eterno",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -15372,9 +15373,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8072afc9d42fabd70399673828f58721dd518622b72a0e2e3b28f0f4ee5df730.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/91444124285ac96b10cae2add98e26e3f60f222366aace5469c8a12c9e2fadc5.jpg",
         "intro": null,
-        "description": "AM Preorder DLC",
+        "description": "Tres nuevas skins de personaje. El Paquete de Skins Konflicto Eterno incluye a Scorpion Ira desatada, inspirada en MK9; Sub-Zero Hijo de Arctika, inspirado en Mortal\u00a0Kombat: Deception; y Frost Poder Kori, una interpretaci\u00f3n kl\u00e1sica.",
         "languages": null,
         "size": 4194304
     },
@@ -15504,7 +15505,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20200526,
+        "releaseDate": 20200616,
         "nsuId": 70050000020504,
         "category": null,
         "ratingContent": [
@@ -15535,7 +15536,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20200526,
+        "releaseDate": 20200616,
         "nsuId": 70050000020505,
         "category": null,
         "ratingContent": [
@@ -15566,7 +15567,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20200526,
+        "releaseDate": 20200616,
         "nsuId": 70050000020506,
         "category": null,
         "ratingContent": [
@@ -15592,7 +15593,7 @@
     "70050000020507": {
         "id": "0100F2200C985016",
         "rightsId": null,
-        "name": "AM Story DLC",
+        "name": "Mortal\u00a0Kombat\u00a011: Historia de Aftermath",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -15614,14 +15615,14 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8072afc9d42fabd70399673828f58721dd518622b72a0e2e3b28f0f4ee5df730.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a0ae69df2bc712bf175ff799cbff220c3f0892845024fa840e53d22efd838ad.jpg",
         "intro": null,
-        "description": null,
+        "description": "Aftermath incluye una nueva historia cinem\u00e1tica centrada en la confianza y el enga\u00f1o. El Dios del Fuego, Liu Kang, nuevo guardi\u00e1n del tiempo y protector de la Tierra, busca asegurar el futuro como \u00e9l lo concibe. Para lograrlo, se ve forzado a pedir ayuda a un grupo de aliados inesperados y enemigos conocidos. Con el destino en riesgo, los jugadores tendr\u00e1n que decidir en qui\u00e9n pueden confiar y a qui\u00e9n deben derrotar. Forja una nueva historia.\n\nIncluye:\n\n\u2022 Nueva historia cinem\u00e1tica",
         "languages": null,
         "size": 4194304
     },
     "70050000020521": {
-        "id": null,
+        "id": "010044500C183004",
         "rightsId": null,
         "name": "Civilization VI - Pack de los mayas y la Gran Colombia",
         "version": null,
@@ -15776,55 +15777,281 @@
         "languages": null,
         "size": 4194304
     },
-    "70070000000041": {
-        "id": null,
+    "70050000020784": {
+        "id": "010044500C183009",
         "rightsId": null,
-        "name": null,
+        "name": "Civilization VI - Pase de nuevas fronteras",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
-        "nsuId": 70070000000041,
+        "releaseDate": 20221201,
+        "nsuId": 70050000020784,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Referencia a drogas",
+            "Lenguaje",
+            "Violencia moderada",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 10,
         "developer": null,
-        "publisher": null,
+        "publisher": "2K",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
         "intro": null,
-        "description": null,
+        "description": "Prosigue tu misi\u00f3n de crear el mayor imperio con Civilization VI - Pase de nuevas fronteras, que cuenta con ocho civilizaciones adicionales, nueve l\u00edderes m\u00e1s y gran variedad de contenido, incluidos seis nuevos modos de juego. El Pase de nuevas fronteras entregar\u00e1 seis packs de contenido descargable de manera bimestral entre mayo de 2020 y marzo de 2021, que incluyen:\n\n\u2022 Pack 1: pack de los mayas y la Gran Colombia. A\u00f1ade dos civilizaciones y dos l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s ciudades-estado, recursos y maravillas naturales. Disponible en mayo de 2020.\n\u2022 Pack 2: pack de Etiop\u00eda. A\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional*, un distrito y dos edificios m\u00e1s. Disponible en julio de 2020.\n\u2022 Pack 3: a\u00f1ade dos civilizaciones y l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s maravillas naturales y un mapa nuevo. Disponible en septiembre de 2020.\n\u2022 Pack 4: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s ciudades-estado y numerosos grandes personajes. Disponible en noviembre de 2020.\n\u2022 Pack 5: a\u00f1ade una civilizaci\u00f3n y dos l\u00edderes nuevos**, un modo de juego adicional, un distrito y dos edificios m\u00e1s. Disponible en enero de 2021.\n\u2022 Pack 6: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s maravillas del mundo y un mapa nuevo. Disponible en marzo de 2021. \n\n*Para jugar a este nuevo modo se requiere el lote de expansi\u00f3n de Civilization VI.\n**Para jugar con este l\u00edder nuevo se requiere el lote de expansi\u00f3n de Civilization VI.\n\nLos modos de juego pueden incluir contenido adicional \u2013como nuevas unidades, edificios o mejoras\u2013 y pueden activarse o desactivarse durante la configuraci\u00f3n de la partida para aplicar cambios importantes y de gran impacto en las reglas del juego.\n\nBonificaci\u00f3n exclusiva: packs de personalidades de Teddy Roosevelt y de Catalina de M\u00e9dici. Cada pack de personalidades contiene una aproximaci\u00f3n distinta a un l\u00edder favorito, con nuevos modelos, trasfondos y bonificaciones de juego y una agenda actualizada que refleja los cambios en la personalidad del l\u00edder. Los packs de personalidades est\u00e1n disponibles en exclusiva para quienes tengan el New Frontier Pass y se entregar\u00e1n con el segundo pack de a\u00f1adidos.",
         "languages": null,
-        "size": 0
+        "size": 6291456
+    },
+    "70050000020785": {
+        "id": "010044500C183007",
+        "rightsId": null,
+        "name": "Civilization VI - Pase de nuevas fronteras",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221201,
+        "nsuId": 70050000020785,
+        "category": null,
+        "ratingContent": [
+            "Referencia a drogas",
+            "Lenguaje",
+            "Violencia moderada",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "intro": null,
+        "description": "Prosigue tu misi\u00f3n de crear el mayor imperio con Civilization VI - Pase de nuevas fronteras, que cuenta con ocho civilizaciones adicionales, nueve l\u00edderes m\u00e1s y gran variedad de contenido, incluidos seis nuevos modos de juego. El Pase de nuevas fronteras entregar\u00e1 seis packs de contenido descargable de manera bimestral entre mayo de 2020 y marzo de 2021, que incluyen:\n\n\u2022 Pack 1: pack de los mayas y la Gran Colombia. A\u00f1ade dos civilizaciones y dos l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s ciudades-estado, recursos y maravillas naturales. Disponible en mayo de 2020.\n\u2022 Pack 2: pack de Etiop\u00eda. A\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional*, un distrito y dos edificios m\u00e1s. Disponible en julio de 2020.\n\u2022 Pack 3: a\u00f1ade dos civilizaciones y l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s maravillas naturales y un mapa nuevo. Disponible en septiembre de 2020.\n\u2022 Pack 4: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s ciudades-estado y numerosos grandes personajes. Disponible en noviembre de 2020.\n\u2022 Pack 5: a\u00f1ade una civilizaci\u00f3n y dos l\u00edderes nuevos**, un modo de juego adicional, un distrito y dos edificios m\u00e1s. Disponible en enero de 2021.\n\u2022 Pack 6: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s maravillas del mundo y un mapa nuevo. Disponible en marzo de 2021. \n\n*Para jugar a este nuevo modo se requiere el lote de expansi\u00f3n de Civilization VI.\n**Para jugar con este l\u00edder nuevo se requiere el lote de expansi\u00f3n de Civilization VI.\n\nLos modos de juego pueden incluir contenido adicional \u2013como nuevas unidades, edificios o mejoras\u2013 y pueden activarse o desactivarse durante la configuraci\u00f3n de la partida para aplicar cambios importantes y de gran impacto en las reglas del juego.\n\nBonificaci\u00f3n exclusiva: packs de personalidades de Teddy Roosevelt y de Catalina de M\u00e9dici. Cada pack de personalidades contiene una aproximaci\u00f3n distinta a un l\u00edder favorito, con nuevos modelos, trasfondos y bonificaciones de juego y una agenda actualizada que refleja los cambios en la personalidad del l\u00edder. Los packs de personalidades est\u00e1n disponibles en exclusiva para quienes tengan el New Frontier Pass y se entregar\u00e1n con el segundo pack de a\u00f1adidos.",
+        "languages": null,
+        "size": 6291456
+    },
+    "70050000020786": {
+        "id": "010044500C183006",
+        "rightsId": null,
+        "name": "Civilization VI - Pase de nuevas fronteras",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221201,
+        "nsuId": 70050000020786,
+        "category": null,
+        "ratingContent": [
+            "Referencia a drogas",
+            "Lenguaje",
+            "Violencia moderada",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "intro": null,
+        "description": "Prosigue tu misi\u00f3n de crear el mayor imperio con Civilization VI - Pase de nuevas fronteras, que cuenta con ocho civilizaciones adicionales, nueve l\u00edderes m\u00e1s y gran variedad de contenido, incluidos seis nuevos modos de juego. El Pase de nuevas fronteras entregar\u00e1 seis packs de contenido descargable de manera bimestral entre mayo de 2020 y marzo de 2021, que incluyen:\n\n\u2022 Pack 1: pack de los mayas y la Gran Colombia. A\u00f1ade dos civilizaciones y dos l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s ciudades-estado, recursos y maravillas naturales. Disponible en mayo de 2020.\n\u2022 Pack 2: pack de Etiop\u00eda. A\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional*, un distrito y dos edificios m\u00e1s. Disponible en julio de 2020.\n\u2022 Pack 3: a\u00f1ade dos civilizaciones y l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s maravillas naturales y un mapa nuevo. Disponible en septiembre de 2020.\n\u2022 Pack 4: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s ciudades-estado y numerosos grandes personajes. Disponible en noviembre de 2020.\n\u2022 Pack 5: a\u00f1ade una civilizaci\u00f3n y dos l\u00edderes nuevos**, un modo de juego adicional, un distrito y dos edificios m\u00e1s. Disponible en enero de 2021.\n\u2022 Pack 6: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s maravillas del mundo y un mapa nuevo. Disponible en marzo de 2021. \n\n*Para jugar a este nuevo modo se requiere el lote de expansi\u00f3n de Civilization VI.\n**Para jugar con este l\u00edder nuevo se requiere el lote de expansi\u00f3n de Civilization VI.\n\nLos modos de juego pueden incluir contenido adicional \u2013como nuevas unidades, edificios o mejoras\u2013 y pueden activarse o desactivarse durante la configuraci\u00f3n de la partida para aplicar cambios importantes y de gran impacto en las reglas del juego.\n\nBonificaci\u00f3n exclusiva: packs de personalidades de Teddy Roosevelt y de Catalina de M\u00e9dici. Cada pack de personalidades contiene una aproximaci\u00f3n distinta a un l\u00edder favorito, con nuevos modelos, trasfondos y bonificaciones de juego y una agenda actualizada que refleja los cambios en la personalidad del l\u00edder. Los packs de personalidades est\u00e1n disponibles en exclusiva para quienes tengan el New Frontier Pass y se entregar\u00e1n con el segundo pack de a\u00f1adidos.",
+        "languages": null,
+        "size": 6291456
+    },
+    "70050000020787": {
+        "id": "010044500C18300B",
+        "rightsId": null,
+        "name": "Civilization VI - Pase de nuevas fronteras",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221201,
+        "nsuId": 70050000020787,
+        "category": null,
+        "ratingContent": [
+            "Referencia a drogas",
+            "Lenguaje",
+            "Violencia moderada",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "intro": null,
+        "description": "Prosigue tu misi\u00f3n de crear el mayor imperio con Civilization VI - Pase de nuevas fronteras, que cuenta con ocho civilizaciones adicionales, nueve l\u00edderes m\u00e1s y gran variedad de contenido, incluidos seis nuevos modos de juego. El Pase de nuevas fronteras entregar\u00e1 seis packs de contenido descargable de manera bimestral entre mayo de 2020 y marzo de 2021, que incluyen:\n\n\u2022 Pack 1: pack de los mayas y la Gran Colombia. A\u00f1ade dos civilizaciones y dos l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s ciudades-estado, recursos y maravillas naturales. Disponible en mayo de 2020.\n\u2022 Pack 2: pack de Etiop\u00eda. A\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional*, un distrito y dos edificios m\u00e1s. Disponible en julio de 2020.\n\u2022 Pack 3: a\u00f1ade dos civilizaciones y l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s maravillas naturales y un mapa nuevo. Disponible en septiembre de 2020.\n\u2022 Pack 4: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s ciudades-estado y numerosos grandes personajes. Disponible en noviembre de 2020.\n\u2022 Pack 5: a\u00f1ade una civilizaci\u00f3n y dos l\u00edderes nuevos**, un modo de juego adicional, un distrito y dos edificios m\u00e1s. Disponible en enero de 2021.\n\u2022 Pack 6: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s maravillas del mundo y un mapa nuevo. Disponible en marzo de 2021. \n\n*Para jugar a este nuevo modo se requiere el lote de expansi\u00f3n de Civilization VI.\n**Para jugar con este l\u00edder nuevo se requiere el lote de expansi\u00f3n de Civilization VI.\n\nLos modos de juego pueden incluir contenido adicional \u2013como nuevas unidades, edificios o mejoras\u2013 y pueden activarse o desactivarse durante la configuraci\u00f3n de la partida para aplicar cambios importantes y de gran impacto en las reglas del juego.\n\nBonificaci\u00f3n exclusiva: packs de personalidades de Teddy Roosevelt y de Catalina de M\u00e9dici. Cada pack de personalidades contiene una aproximaci\u00f3n distinta a un l\u00edder favorito, con nuevos modelos, trasfondos y bonificaciones de juego y una agenda actualizada que refleja los cambios en la personalidad del l\u00edder. Los packs de personalidades est\u00e1n disponibles en exclusiva para quienes tengan el New Frontier Pass y se entregar\u00e1n con el segundo pack de a\u00f1adidos.",
+        "languages": null,
+        "size": 6291456
+    },
+    "70050000020788": {
+        "id": "010044500C18300A",
+        "rightsId": null,
+        "name": "Civilization VI - Pase de nuevas fronteras",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221201,
+        "nsuId": 70050000020788,
+        "category": null,
+        "ratingContent": [
+            "Referencia a drogas",
+            "Lenguaje",
+            "Violencia moderada",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "intro": null,
+        "description": "Prosigue tu misi\u00f3n de crear el mayor imperio con Civilization VI - Pase de nuevas fronteras, que cuenta con ocho civilizaciones adicionales, nueve l\u00edderes m\u00e1s y gran variedad de contenido, incluidos seis nuevos modos de juego. El Pase de nuevas fronteras entregar\u00e1 seis packs de contenido descargable de manera bimestral entre mayo de 2020 y marzo de 2021, que incluyen:\n\n\u2022 Pack 1: pack de los mayas y la Gran Colombia. A\u00f1ade dos civilizaciones y dos l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s ciudades-estado, recursos y maravillas naturales. Disponible en mayo de 2020.\n\u2022 Pack 2: pack de Etiop\u00eda. A\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional*, un distrito y dos edificios m\u00e1s. Disponible en julio de 2020.\n\u2022 Pack 3: a\u00f1ade dos civilizaciones y l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s maravillas naturales y un mapa nuevo. Disponible en septiembre de 2020.\n\u2022 Pack 4: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s ciudades-estado y numerosos grandes personajes. Disponible en noviembre de 2020.\n\u2022 Pack 5: a\u00f1ade una civilizaci\u00f3n y dos l\u00edderes nuevos**, un modo de juego adicional, un distrito y dos edificios m\u00e1s. Disponible en enero de 2021.\n\u2022 Pack 6: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s maravillas del mundo y un mapa nuevo. Disponible en marzo de 2021. \n\n*Para jugar a este nuevo modo se requiere el lote de expansi\u00f3n de Civilization VI.\n**Para jugar con este l\u00edder nuevo se requiere el lote de expansi\u00f3n de Civilization VI.\n\nLos modos de juego pueden incluir contenido adicional \u2013como nuevas unidades, edificios o mejoras\u2013 y pueden activarse o desactivarse durante la configuraci\u00f3n de la partida para aplicar cambios importantes y de gran impacto en las reglas del juego.\n\nBonificaci\u00f3n exclusiva: packs de personalidades de Teddy Roosevelt y de Catalina de M\u00e9dici. Cada pack de personalidades contiene una aproximaci\u00f3n distinta a un l\u00edder favorito, con nuevos modelos, trasfondos y bonificaciones de juego y una agenda actualizada que refleja los cambios en la personalidad del l\u00edder. Los packs de personalidades est\u00e1n disponibles en exclusiva para quienes tengan el New Frontier Pass y se entregar\u00e1n con el segundo pack de a\u00f1adidos.",
+        "languages": null,
+        "size": 6291456
+    },
+    "70050000020789": {
+        "id": "010044500C18300C",
+        "rightsId": null,
+        "name": "Civilization VI - Pase de nuevas fronteras",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221201,
+        "nsuId": 70050000020789,
+        "category": null,
+        "ratingContent": [
+            "Referencia a drogas",
+            "Lenguaje",
+            "Violencia moderada",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "intro": null,
+        "description": "Prosigue tu misi\u00f3n de crear el mayor imperio con Civilization VI - Pase de nuevas fronteras, que cuenta con ocho civilizaciones adicionales, nueve l\u00edderes m\u00e1s y gran variedad de contenido, incluidos seis nuevos modos de juego. El Pase de nuevas fronteras entregar\u00e1 seis packs de contenido descargable de manera bimestral entre mayo de 2020 y marzo de 2021, que incluyen:\n\n\u2022 Pack 1: pack de los mayas y la Gran Colombia. A\u00f1ade dos civilizaciones y dos l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s ciudades-estado, recursos y maravillas naturales. Disponible en mayo de 2020.\n\u2022 Pack 2: pack de Etiop\u00eda. A\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional*, un distrito y dos edificios m\u00e1s. Disponible en julio de 2020.\n\u2022 Pack 3: a\u00f1ade dos civilizaciones y l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s maravillas naturales y un mapa nuevo. Disponible en septiembre de 2020.\n\u2022 Pack 4: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s ciudades-estado y numerosos grandes personajes. Disponible en noviembre de 2020.\n\u2022 Pack 5: a\u00f1ade una civilizaci\u00f3n y dos l\u00edderes nuevos**, un modo de juego adicional, un distrito y dos edificios m\u00e1s. Disponible en enero de 2021.\n\u2022 Pack 6: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s maravillas del mundo y un mapa nuevo. Disponible en marzo de 2021. \n\n*Para jugar a este nuevo modo se requiere el lote de expansi\u00f3n de Civilization VI.\n**Para jugar con este l\u00edder nuevo se requiere el lote de expansi\u00f3n de Civilization VI.\n\nLos modos de juego pueden incluir contenido adicional \u2013como nuevas unidades, edificios o mejoras\u2013 y pueden activarse o desactivarse durante la configuraci\u00f3n de la partida para aplicar cambios importantes y de gran impacto en las reglas del juego.\n\nBonificaci\u00f3n exclusiva: packs de personalidades de Teddy Roosevelt y de Catalina de M\u00e9dici. Cada pack de personalidades contiene una aproximaci\u00f3n distinta a un l\u00edder favorito, con nuevos modelos, trasfondos y bonificaciones de juego y una agenda actualizada que refleja los cambios en la personalidad del l\u00edder. Los packs de personalidades est\u00e1n disponibles en exclusiva para quienes tengan el New Frontier Pass y se entregar\u00e1n con el segundo pack de a\u00f1adidos.",
+        "languages": null,
+        "size": 12582912
+    },
+    "70050000020790": {
+        "id": "010044500C183008",
+        "rightsId": null,
+        "name": "Civilization VI - Pase de nuevas fronteras",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221201,
+        "nsuId": 70050000020790,
+        "category": null,
+        "ratingContent": [
+            "Referencia a drogas",
+            "Lenguaje",
+            "Violencia moderada",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "intro": null,
+        "description": "Prosigue tu misi\u00f3n de crear el mayor imperio con Civilization VI - Pase de nuevas fronteras, que cuenta con ocho civilizaciones adicionales, nueve l\u00edderes m\u00e1s y gran variedad de contenido, incluidos seis nuevos modos de juego. El Pase de nuevas fronteras entregar\u00e1 seis packs de contenido descargable de manera bimestral entre mayo de 2020 y marzo de 2021, que incluyen:\n\n\u2022 Pack 1: pack de los mayas y la Gran Colombia. A\u00f1ade dos civilizaciones y dos l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s ciudades-estado, recursos y maravillas naturales. Disponible en mayo de 2020.\n\u2022 Pack 2: pack de Etiop\u00eda. A\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional*, un distrito y dos edificios m\u00e1s. Disponible en julio de 2020.\n\u2022 Pack 3: a\u00f1ade dos civilizaciones y l\u00edderes nuevos, un modo de juego adicional*, m\u00e1s maravillas naturales y un mapa nuevo. Disponible en septiembre de 2020.\n\u2022 Pack 4: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s ciudades-estado y numerosos grandes personajes. Disponible en noviembre de 2020.\n\u2022 Pack 5: a\u00f1ade una civilizaci\u00f3n y dos l\u00edderes nuevos**, un modo de juego adicional, un distrito y dos edificios m\u00e1s. Disponible en enero de 2021.\n\u2022 Pack 6: a\u00f1ade una civilizaci\u00f3n y un l\u00edder nuevos, un modo de juego adicional, m\u00e1s maravillas del mundo y un mapa nuevo. Disponible en marzo de 2021. \n\n*Para jugar a este nuevo modo se requiere el lote de expansi\u00f3n de Civilization VI.\n**Para jugar con este l\u00edder nuevo se requiere el lote de expansi\u00f3n de Civilization VI.\n\nLos modos de juego pueden incluir contenido adicional \u2013como nuevas unidades, edificios o mejoras\u2013 y pueden activarse o desactivarse durante la configuraci\u00f3n de la partida para aplicar cambios importantes y de gran impacto en las reglas del juego.\n\nBonificaci\u00f3n exclusiva: packs de personalidades de Teddy Roosevelt y de Catalina de M\u00e9dici. Cada pack de personalidades contiene una aproximaci\u00f3n distinta a un l\u00edder favorito, con nuevos modelos, trasfondos y bonificaciones de juego y una agenda actualizada que refleja los cambios en la personalidad del l\u00edder. Los packs de personalidades est\u00e1n disponibles en exclusiva para quienes tengan el New Frontier Pass y se entregar\u00e1n con el segundo pack de a\u00f1adidos.",
+        "languages": null,
+        "size": 12582912
+    },
+    "70070000000041": {
+        "id": null,
+        "rightsId": null,
+        "name": "The Legend of Zelda: Breath of the Wild - Suscripci\u00f3n de expansi\u00f3n",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20170302,
+        "nsuId": 70070000000041,
+        "category": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Temas insinuantes moderados",
+            "Uso de alcohol"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2e95a9a33f95a2c3efc7b695ca384d215e30dce6c49fac808cbb4965db288a3a.jpg",
+        "intro": null,
+        "description": "La suscripci\u00f3n de expansi\u00f3n incluye los paquetes 1 y 2 de contenido descargable de pago para el juego.\n\n\u2022 Objetos de la suscripci\u00f3n de expansi\u00f3n\n\nSe a\u00f1adir\u00e1n en la meseta de los albores tres cofres con equipamiento exclusivo y otros objetos \u00fatiles.\n\n\u2022 Paquete n.\u00ba 1: Las pruebas legendarias\n\nIncluye:\n\nSantuario de la espada\nDeber\u00e1s atravesar, sin armas ni equipamiento, 45 niveles llenos de enemigos. Si lo logras, la Espada Maestra ser\u00e1 a\u00fan m\u00e1s poderosa.\n\nSenda del h\u00e9roe\nVer\u00e1s en el mapa el recorrido de tu aventura, hasta unas 200 horas de juego.\n\nModo experto\nAumenta la fuerza de todos los monstruos, que ahora adem\u00e1s recuperan vitalidad. Tambi\u00e9n encontrar\u00e1s nuevos rivales, e incluso aparecer\u00e1n enemigos y cofres en el aire.\n\nTeletransportador\nRegistra tu ubicaci\u00f3n en el mapa como punto de teletransporte.\n\n8 objetos de la serie The Legend of Zelda ocultos en distintos puntos de Hyrule: la M\u00e1scara de Majora; el casco de Midna; gorro, mallas y camiseta de Tingle; y casco, armadura y grebas de espectro. Todos est\u00e1n en cofres ocultos en Hyrule; sigue las pistas para localizarlos.\n\nM\u00e1scara de kolog\nOculta en un cofre, si la usas emite una vibraci\u00f3n cuando alg\u00fan kolog est\u00e1 cerca.\n\n\u2022 Paquete n.\u00ba 2: La balada de los campeones\n\nEnfr\u00e9ntate una nueva prueba guiado por una voz celestial. Elimina monstruos en diversas ubicaciones, descubre nuevos santuarios y supera un enorme calabozo para obtener la Moto Hyliana Alfa.\n\nPor otro lado, ayuda a Nyel a terminar la balada inconclusa de su maestro y a componer sus propios cantos, que te har\u00e1n revivir recuerdos que desconoc\u00edas de los campeones y la princesa Zelda.\n\nNota: para disfrutar del contenido de \"La balada de los campeones\", deber\u00e1s liberar primero a las cuatro bestias divinas.\n\nIncluye:\n\n9 objetos de la serie The Legend of Zelda ocultos en distintos puntos de Hyrule: la camiseta de langosta; la capucha de Ravio; el casco de Zant; casco, botas y cota de Ganon fantasma; y tres partes del uniforme de la antigua guardia real hyliana.\n\nArreos ancestrales ocultos en cofres: una brida que prolonga el galope de tu montura y una silla que permite llamarla desde cualquier lugar.",
+        "languages": null,
+        "size": 1401946112
     },
     "70070000000441": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Pase de temporada de Fire Emblem Warriors",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20171020,
         "nsuId": 70070000000441,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Temas insinuantes",
+            "Violencia"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 13,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5c3ce7a3b829495ac0c04af35b4023695b057d2698fa589d4d20ecd9c9bef92e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0f61a34023f56485501bdccc3ef76fe90f5556e3df40dd480543be62325569f3.jpg",
         "intro": null,
-        "description": null,
+        "description": "Esta compra te garantiza el acceso a 3 paquetes de contenido descargable conforme se vayan lanzando a un mejor precio. \n\nLos paquetes son los siguientes:\n\n\u30fbContenido descargable de Fire Emblem Fates Programado \n\u30fbContenido descargable de Fire Emblem: Shadow Dragon \n\u30fbContenido descargable de Fire Emblem Awakening  \n\nY como una bonificaci\u00f3n especial, podr\u00e1s usar un nuevo traje para Lucina, el traje de novia, disponible el d\u00eda de la compra.",
         "languages": null,
-        "size": 0
+        "size": 3595567104
     },
     "70070000000481": {
         "id": null,
@@ -15862,27 +16089,32 @@
     "70070000000644": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Pase de expansi\u00f3n para Xenoblade Chronicles\u2122 2",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20171201,
         "nsuId": 70070000000644,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Lenguaje",
+            "Temas insinuantes",
+            "Uso de Alcohol y Tabaco",
+            "Violencia"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 13,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
-        "intro": null,
-        "description": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/37cb4cd670725392028018b4b2877684469f91f4a6ceaae1085e27fba0bd7b20.jpg",
+        "intro": "Nuevo contenido merecedor de un Tit\u00e1n",
+        "description": "Si tienes el juego Xenoblade Chronicles\u2122 2 y adquieres el pase de expansi\u00f3n, tendr\u00e1s acceso a un monumental contenido que incluye nuevas Blades (Shulk y Friora), objetos de bonificaci\u00f3n, nuevas misiones, el nuevo modo desaf\u00edo y el nuevo juego individual: \u00a1Xenoblade Chronicles\u2122 2: Torna ~ The Golden Country! \n\nEn Xenoblade Chronicles\u2122 2, civilizaciones descansan en las espaldas de los titanes. Mientras enormes bestias marchan hacia la muerte, Rex y Pyra (un arma con vida propia conocida como Blade) son la \u00fanica esperanza. Dirige a un grupo de Blades a incontables victorias estrat\u00e9gicas antes de que sea el fin del mundo. Conocer\u00e1s a una gran cantidad de personajes ecl\u00e9cticos, incluyendo las armas vivientes conocidas como Blades. Re\u00fane a estos aliados y crea lazos de amistad con ellos para incrementar su poder y util\u00edzalo despu\u00e9s contra los enemigos. Para salvar al mundo de Alrest, primero tienes que develar su turbio pasado.\n",
         "languages": null,
-        "size": 0
+        "size": 4038066176
     },
     "70070000000661": {
         "id": null,
@@ -15984,27 +16216,30 @@
     "70070000001021": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Pokk\u00e9n Tournament DX Battle Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20180111,
         "nsuId": 70070000001021,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Interacciones en linea no estan clasificadas por la ESRB"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 10,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6c215efd0f8a03185c940146257b0282a79ac9912fb6ca94c7e3c0d609628e9d.jpg",
         "intro": null,
-        "description": null,
+        "description": "El paquete de combate Pokk\u00e9n Tournament DX Battle ofrece acceso a contenido descargable conforme est\u00e9 disponible. Este paquete contiene 2 nuevos Pok\u00e9mon de combate y 2 nuevos pares de Pok\u00e9mon de apoyo. El lanzamiento de este contenido se realizar\u00e1 a principios de 2018.\n\nOstentando una fuerte destreza ofensiva y defensiva, el Pok\u00e9mon de combate Aegilash puede cambiar entre dos formas y t\u00fa podr\u00e1s usar ambas cuando este nuevo personaje y otros Pok\u00e9mon est\u00e9n disponibles a trav\u00e9s del paquete de contenido descargable de pago Pokk\u00e9n Tournament DX Battle.\n\nEste contenido se lanzar\u00e1 en dos etapas: la primera incluye a Aegilash y un conjunto de Pok\u00e9mon de apoyo con Mega Rayquaza y Mimikyu. La segunda contiene el nuevo Pok\u00e9mon de combate Blastoise y un conjunto de Pok\u00e9mon de apoyo con Mew and Celebi. Estos paquetes de combate tambi\u00e9n incluir\u00e1n art\u00edculos de avatar y mucho m\u00e1s. Prep\u00e1rate porque la batalla apenas comienza.\n",
         "languages": null,
-        "size": 0
+        "size": 8388608
     },
     "70070000001041": {
         "id": null,
@@ -16037,27 +16272,30 @@
     "70070000001541": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Splatoon\u2122 2: Octo Expansion",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20180308,
         "nsuId": 70070000001541,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Interacciones en linea no estan clasificadas por la ESRB"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 10,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
-        "intro": null,
-        "description": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/421aa0d8dce89d516fc61660614493eebc1b28b82562c4f3233a50ca3a0ddce9.jpg",
+        "intro": "\u00a1Juega como octoling!",
+        "description": "\u00a1Juega como octoling por primera vez en este contenido descargable para Splatoon 2! Esta aventura completa para un solo jugador es protagonizada por un nuevo personaje, llamado Agente 8, que despierta en una oscura plataforma subterr\u00e1nea tras haber perdido la memoria. \u00c1brete camino en esta misteriosa instalaci\u00f3n subterr\u00e1nea y libra un combate feroz para llegar a la superficie de Crom\u00f3polis. \u00a1Escapa de este laberinto ubicado en las profundidades y, finalmente, \u00fanete a las partidas multijugador como octoling!\n\nIncluso si ya conoces el mundo de Splatoon, podr\u00e1s sumergirte en las profundidades de la historia para descubrir detalles nuevos. Adquiere este contenido hoy para obtener acceso inmediato a nuevos art\u00edculos en el juego con tem\u00e1tica de los octolings.\n",
         "languages": null,
-        "size": 0
+        "size": 2166358016
     },
     "70070000001542": {
         "id": null,
@@ -16090,27 +16328,30 @@
     "70070000002404": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Lote Expedici\u00f3n Triple",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20180529,
         "nsuId": 70070000002404,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Violencia moderada de fantasia",
+            "Compras dentro del juego"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 6,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
-        "intro": null,
-        "description": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/449ce648b12a7b384eaea242bfd448794d10368a6dd4a268c36b0009fb63ceb2.jpg",
+        "intro": "\u00a1Puedes adquirir todos los lotes expedici\u00f3n en un solo paquete a un precio especial!\n",
+        "description": "Este paquete ofrece los tres lotes de expedici\u00f3n juntos a un precio especial.\n\nEste paquete incluye:\n\n\u30fbLote Expedici\u00f3n \n\u30fbLote Expedici\u00f3n S\u00faper\n\u30fbLote Expedici\u00f3n Ultra\n\nSi quieres conocer el contenido de un lote de expedici\u00f3n en espec\u00edfico, consulta la p\u00e1gina de informaci\u00f3n para ese lote.",
         "languages": null,
-        "size": 0
+        "size": 12582912
     },
     "70070000003245": {
         "id": null,
@@ -16147,30 +16388,96 @@
         "languages": null,
         "size": 17623416832
     },
-    "70070000003621": {
+    "70070000003448": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Starlink: Battle for Atlas\u2122, paquete de colecci\u00f3n 1",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
-        "nsuId": 70070000003621,
+        "releaseDate": 20181213,
+        "nsuId": 70070000003448,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Violencia de fantasia",
+            "Compras dentro del juego"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 10,
         "developer": null,
-        "publisher": null,
+        "publisher": "Ubisoft",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f1692b3f2f113d314885986f79dc1c5b58d228d62a04fb0d4349bef502f6348a.jpg",
         "intro": null,
-        "description": null,
+        "description": "Obt\u00e9n ventaja en tu batalla contra la Legi\u00f3n Olvidada con la primera colecci\u00f3n completa de pilotos, naves espaciales y armas. \n\n*Starlink: Battle For Atlas se requiere para jugar.  Algunos objetos incluidos en las ediciones Digital y Deluxe. El paquete de colecci\u00f3n 1* de Starlink: Battle for Atlas\u2122 incluye: \n\nNaves espaciales:\nNeptune\nPulse\nLance\nNadir\n\nPilotos:\nLevi McCray\nJudge\nChase da Silva\nHunter Hakka\nShaid\nRazor Lemay\nEli Arborwood\nKharl Zeon\n\nArmas:\nIron Fist\nCrusher\nShockwave\nHailstorm\nLevitator\nVolcano\nImploder\nMisiles anulantes\nFreeze Ray Mk.2\nShredder Mk.2\nGauss Gun Mk.2\nMeteor Mk.2 Maximiza el potencial de tu equipo con la primera oleada completa de la flota de Starlink: Battle for Atlas\u2122. \n\n*Starlink: Battle For Atlas se requiere para jugar.\n\n\u00bfTodav\u00eda no tienes el juego?  No te pierdas la edici\u00f3n Deluxe de Starlink: Battle for Atlas\u2122 que presenta todo lo mencionado aqu\u00ed, adem\u00e1s del juego.",
         "languages": null,
-        "size": 0
+        "size": 50331648
+    },
+    "70070000003621": {
+        "id": null,
+        "rightsId": null,
+        "name": "Super Smash Bros.\u2122 Ultimate: Fighters Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20181207,
+        "nsuId": 70070000003621,
+        "category": null,
+        "ratingContent": [
+            "Violencia de caricatura",
+            "Travesuras comicas",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/af29370758f00ce59d09d823b6555958372b015ff48a0460a2f96f439bae35bc.jpg",
+        "intro": "\u00a1Expande tu elenco de combatientes con el pase de combatiente del juego Super Smash Bros.\u2122 Ultimate!",
+        "description": "\u00a1Expande tu elenco de combatientes con el pase de combatientes de Super Smash Bros.\u2122 Ultimate para el juego Super Smash Bros.\u2122 Ultimate! Tras adquirir el pase de combatientes tendr\u00e1s acceso a contenido adicional que incluye cinco combatientes jugables, cinco escenarios y m\u00e1s temas musicales. \u00a1Los combatientes adicionales son Joker, el h\u00e9roe, Banjo y Kazooie, Terry Bogard y Byleth!\n\nEl pase de combatientes es un set que incluye cinco paquetes de combatientes.\n\nEl paquete de combatiente 1 incluye a Joker como combatiente jugable, un escenario y varias melod\u00edas. \n\nEl paquete de combatiente 2 incluye a Hero como combatiente jugable, un escenario y varias melod\u00edas. \n\nEl paquete de combatiente 3 incluye al d\u00fao Banjo y Kazooie como combatiente jugable, un escenario y varias melod\u00edas de la serie Banjo-Kazooie\u2122.\n\nEl paquete de combatiente 4 incluye a Terry Bogard como combatiente jugable, un escenario y varias melod\u00edas de distintos juegos de SNK.\n\nEl paquete de combatiente 5 incluye a Byleth como combatiente jugable, un escenario y varias melod\u00edas de la serie Fire Emblem.\n\n",
+        "languages": null,
+        "size": 25165824
+    },
+    "70070000004222": {
+        "id": null,
+        "rightsId": null,
+        "name": "Travis Strikes Again: No More Heroes - Season Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190118,
+        "nsuId": 70070000004222,
+        "category": null,
+        "ratingContent": [
+            "Sangre",
+            "Referencia a drogas",
+            "Desnudez parcial",
+            "Lenguaje fuerte",
+            "Violencia",
+            "Compras dentro del juego"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Grasshopper Manufacture",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b66070bce0f9c1184780a9a39e9db5528460973d48d2e012983a627c495f515b.jpg",
+        "intro": null,
+        "description": "Con este pase de temporada se puede reservar una gran cantidad de contenido descargable de una sola vez. Incluye dos packs de contenido descargable: \n\nContenido descargable 1 - Black Dandelion\n28 de febrero de 2019*\nEste contenido descargable incluye:\n- Un nuevo personaje controlable\n- Dos habilidades especiales para Shinobu Jacobs\n- Una nueva aventura con Badman como protagonista\n\nContenido descargable 2 - Bubblegum Fatale\n30 de abril de 2019*\nEste contenido descargable incluye:\n- Un nuevo personaje controlable: Bad Girl\n- Dos habilidades especiales para Bad Girl\n- Un mundo adicional: \"Killer Marathon\"\n- Una nueva habilidad\n- Contenido extra en la aventura de Travis\n\n* Las caracter\u00edsticas y las fechas de lanzamiento de los contenidos descargables que aqu\u00ed se mencionan podr\u00edan sufrir modificaciones.",
+        "languages": null,
+        "size": 386924544
     },
     "70070000004223": {
         "id": null,
@@ -16207,27 +16514,36 @@
     "70070000005061": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Captain Toad\u2122: Treasure Tracker - Special Episode",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20190213,
         "nsuId": 70070000005061,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Violencia moderada en caricaturas"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 6,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cc0bc04661bf65586f29d0b6ca32319fa0255fb0453679195bdf91ae4f0dedc9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3589c7eaf1f2a86d29c2aa5138919a0baa8e3efada3da0dc10b0139230012c7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9636c252a67816f8234aed83167e870304916b61b64524f34e25e7646ff0d400.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8162324492e8e5b66f9d2bd74dd008b753948d8bb7ec8e176d1843cab417fbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8bda70472e850d02454950e100f80465d282c45448fd227bfa45c06774e936ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f2a88c40a7454a0680d4c268125982dfb756953779eb8e8640ddf98b5f9fe26d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9965d3b6705679296249992ccb9445edb68c46f00072ecb2fe89a132e7512c39.jpg",
         "intro": null,
-        "description": null,
+        "description": "As of February 13th, 2019, you can purchase the Captain Toad: Treasure Tracker - Special Episode DLC to continue your journey with eighteen new challenges, including five brand-new courses. Purchase and download this content before March 14th for early access to one of the courses! The remainder of the DLC will be available on March 14th. Naturally, you can play all of the courses with a friend or alone. Either way, you\u2019ll dodge dangers and track treasures across many trap-filled miniature worlds; some are even based on the Super Mario Odyssey\u2122 game!",
         "languages": null,
-        "size": 0
+        "size": 274726912
     },
     "70070000005062": {
         "id": null,
@@ -16297,52 +16613,60 @@
     "70070000005704": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Mortal\u00a0Kombat\u00a011 Paquete de Kombate",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20190422,
         "nsuId": 70070000005704,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Derramamiento de sangre",
+            "Violencia intensa",
+            "Lenguaje fuerte",
+            "Interacci\u00f3n de usuarios",
+            "Compras dentro del juego"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 17,
         "developer": null,
-        "publisher": null,
+        "publisher": "WB Games",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/21b740b5667c146554b87d3311319571282395bb80c5ad519d6ef1b1bf63319a.jpg",
         "intro": null,
-        "description": null,
+        "description": "El Paquete de Kombate es la mejor manera de mejorar tu Edici\u00f3n Est\u00e1ndar de Mortal\u00a0Kombat. El Paquete de Kombate incluye:\n\u2022 6\u00a0nuevos personajes complementarios jugables, incluyendo a Shang Tsung, Nightwolf, Terminator T-800, Sindel, el\u00a0Guas\u00f3n y Spawn\n\u2022 Acceso anticipado de 1\u00a0semana a todos los personajes complementarios\n\u2022 Skins y\u00a0conjuntos de equipo con cada personaje complementario\n\u2022 6 paquetes de skins tem\u00e1ticas incluyendo Ninjas de Arcade Kl\u00e1sicos, Luchadores de Arcade Kl\u00e1sicos y m\u00e1s",
         "languages": null,
-        "size": 0
+        "size": 54525952
     },
     "70070000006021": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Big Block DLC",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20190509,
         "nsuId": 70070000006021,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Compras dentro del juego"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 6,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
-        "intro": null,
-        "description": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a4913047805597c08d5d5ef1fa66ce82ed949bea1cff610758f8dc673d09cd3.jpg",
+        "intro": "\u00a1Obt\u00e9n el contenido descargable para acceder a modos de juego adicionales!",
+        "description": "Obt\u00e9n modos adicionales para Tetris\u00ae 99 una vez sean lanzados con esta compra \u00fanica de contenido descargable*. Los modos de juego incluyen: \n\u2022\tDuelo contra el CPU \u2013 Juega Tetris 99 sin conexi\u00f3n a internet contra 98 jugadores controlados por la consola\n\u2022\tMarat\u00f3n \u2013 Ponte a prueba en este modo sin internet para eliminar la mayor cantidad de l\u00edneas y obtener una gran cantidad de puntos\n\u2022\tDuelo compartido \u2013 comparte con un amigo un control Joy-Con para un juego de dos jugadores entre s\u00ed y el CPU\n\u2022\tDuelo local \u2013 hasta 8 jugadores podr\u00e1n disfrutar en persona los combates a trav\u00e9s del modo multijugador local (se requieren consolas y juegos adicionales que se venden por separado)\n\n",
         "languages": null,
-        "size": 0
+        "size": 8388608
     },
     "70070000006263": {
         "id": null,
@@ -16387,27 +16711,35 @@
     "70070000006281": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "DRAGON QUEST BUILDERS\u2122 2: Season Pass",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20190712,
         "nsuId": 70070000006281,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Referencia al alcohol",
+            "Travesuras comicas",
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Lenguaje moderado",
+            "Temas insinuantes",
+            "Interacci\u00f3n de usuarios"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 10,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/68cfe5f7d2732d989994624e2caa8c4034c5ddaff5a275e15582f36a2606113f.jpg",
         "intro": null,
-        "description": null,
+        "description": "Este pase incluye el siguiente contenido descargable:\n\u2022\tHotto Stuff Pack\n\u2022\tAquarium Pack\n\u2022\tModernist Pack\nCada paquete ser\u00e1 lanzado de forma individual.\n",
         "languages": null,
-        "size": 0
+        "size": 16777216
     },
     "70070000006364": {
         "id": null,
@@ -16724,27 +17056,34 @@
     "70070000007321": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Champion\u2019s Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20190821,
         "nsuId": 70070000007321,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Humor vulgar",
+            "Violencia de fantasia",
+            "Bajo contenido de sangre",
+            "Apuestas simuladas",
+            "Temas insinuantes",
+            "Uso de alcohol"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 13,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/1af00309bef064e75cc1a823e8da946d361b6b2d8f08b6aaf79635ea00a00342.jpg",
         "intro": null,
-        "description": null,
+        "description": "Adquiere el contenido descargable* que incluye 5 conjuntos de objetos que ayudar\u00e1n y personalizar\u00e1n tu \u00e9pica aventura para salvar el mundo de Erdrea.\n\u2022\tConjunto de chalecos para triunfar \u2013 Un par de prendas que se dice traen buena suerte a quien las lleva. \n\u2022\tTraje de lobo  \u2013 Un traje muy especial que hace que Erik sea todav\u00eda m\u00e1s carism\u00e1tico. \n\u2022\tConjunto de jabata  \u2013 Divi\u00e9rtete con uno de los trajes favoritos de Ver\u00f3nica. \n\u2022\tConjunto trodiano \u2013 Prueba un traje de viaje que le dar\u00e1 un aspecto totalmente nuevo a nuestro h\u00e9roe. \n\u2022\tLote de aventurero feliz\u2013  Est\u00e1 repleto de \u00fatiles objetos que seguro que te son de gran ayuda durante tus aventuras.\n",
         "languages": null,
-        "size": 0
+        "size": 20971520
     },
     "70070000007782": {
         "id": null,
@@ -16875,7 +17214,7 @@
         "intro": "El futuro es ahora. \u00bfEst\u00e1s con nosotros?",
         "description": "Overwatch: Legendary Edition incluye:\n\u2022\tC\u00f3digo para canjear para la suscripci\u00f3n de 3 meses de membres\u00eda individual de Nintendo Switch Online (Se aplican t\u00e9rminos. nintendo.com/switch-online)\n\u2022\tEl juego completo\n\u2022\t5 dise\u00f1os de h\u00e9roe legendarios\n\u2022\t5 dise\u00f1os de h\u00e9roe \u00e9picos\n\u2022\t5 dise\u00f1os de h\u00e9roe Origin\nEmpieza tu guardia\n\u00danete a la lucha por el futuro en el mundo de Overwatch\u00ae y elige a tu h\u00e9roe de entre una diversa lista de soldados, cient\u00edficos, aventureros y superdotados. Manipula el tiempo, desaf\u00eda la f\u00edsica y desata una gran variedad de armas y poderes extraordinarios. Enfr\u00e9ntate a tus enemigos en ubicaciones emblem\u00e1ticas de todas partes del mundo en el juego de disparos por equipos definitivo.\nVive lo extraordinario\nAcelera y ralentiza el tiempo. Haz llover destrucci\u00f3n desde lo alto en una armadura experimental con propulsores. Acecha a tu presa como un asesino espectral que puede aparecer en cualquier lugar en cualquier momento. Desata poderes como Golpe drag\u00f3n, Trascendencia, Oleada de gravitones y muchos m\u00e1s. Cada h\u00e9roe tiene un conjunto de habilidades \u00fanicas y devastadoras capaces de alterar el curso de la partida.\nJuega con h\u00e9roes, no clases\nCada h\u00e9roe tiene una perspectiva \u00fanica en el campo de batalla y una historia detr\u00e1s de c\u00f3mo lleg\u00f3 hasta all\u00ed. Puedes ser un campe\u00f3n de una era antigua que blande su martillo propulsado en servicio del honor, un monje rob\u00f3tico que tiene como misi\u00f3n sanar las grietas entre la humanidad y las m\u00e1quinas, o un gorila dise\u00f1ado gen\u00e9ticamente que resulta ser tambi\u00e9n un brillante cient\u00edfico, entre muchos otros.\nLucha por el futuro... en equipo\nEl trabajo en equipo ser\u00e1 fundamental para la supervivencia cuando ingreses al campo de batalla con amigos y compa\u00f1eros. Una coordinaci\u00f3n minuciosa puede marcar la diferencia entre la victoria y la derrota al momento de combinar en equipo los formidables poderes que tienen a disposici\u00f3n para provocar un efecto devastador.\nCambia tu perspectiva\nJusto cuando parece que tu equipo est\u00e1 destinado a sufrir una derrota, cambia de h\u00e9roe en cualquier momento y modifica el curso de la batalla. Pero no olvides que tus oponentes pueden hacer lo mismo. Domina el juego dentro de la partida al tiempo que ambos equipos cambian de estrategia y de h\u00e9roe para obtener una ventaja sobre su rival.\nEl mundo es tu campo de batalla\nProtege los secretos del misterioso Templo de Anubis en Egipto, escolta un dispositivo PEM para que llegue a salvo a destino por King\u2019s Row en Londres y libra batallas en muchas m\u00e1s ubicaciones \u00fanicas. Todos los mapas tienen caracter\u00edsticas distintivas propias, con objetivos por equipos y estilos de juego singulares.",
         "languages": null,
-        "size": 16101933056
+        "size": 12054429696
     },
     "70070000008561": {
         "id": null,
@@ -17371,9 +17710,9 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c3197a588b8eba43119f6e17bb19184a320a28269420987f6b52f56ea2a93d1e.jpg",
         "intro": null,
-        "description": "Incluye Mortal\u00a0Kombat\u00a011, el Paquete de Kombate y MK11: Aftermath.\n\nAdqui\u00e9relo con anticipaci\u00f3n y obt\u00e9n el Paquete de Skins Konflicto Eterno.\n\nEn la historia cinem\u00e1tica original de MK11, toma el papel de protector de la Tierra cuando un enemigo juega con las fuerzas del tiempo, amenazando con cambiar el curso del tiempo y reescribir su propia historia. Aftermath kontin\u00faa la trama del juego con una nueva aventura. Las alianzas se pondr\u00e1n a prueba mientras el destino de dos mundos est\u00e1 en la cuerda floja. Ahora es el momento de forjar una nueva historia.\n\n\u2022 Disfruta la historia original del MK11 y Aftermath, la nueva conclusi\u00f3n de la historia\n\u2022 Juega con todos los personajes de MK11, incluyendo a los nuevos luchadores Sheeva y Fujin\n\u2022 Con todos los personajes invitados, incluyendo al recientemente a\u00f1adido RoboCop y a Terminator, Spawn y el Guas\u00f3n del Paquete de Kombate\n\u2022 Nuevos Friendships, arenas y Fatalities de arena",
+        "description": "Incluye Mortal\u00a0Kombat\u00a011, el Paquete de Kombate y MK11: Aftermath.\n\nEn la historia cinem\u00e1tica original de MK11, toma el papel de protector de la Tierra cuando un enemigo juega con las fuerzas del tiempo, amenazando con cambiar el curso del tiempo y reescribir su propia historia. Aftermath kontin\u00faa la trama del juego con una nueva aventura. Las alianzas se pondr\u00e1n a prueba mientras el destino de dos mundos est\u00e1 en la cuerda floja. Ahora es el momento de forjar una nueva historia.\n\n\u2022 Disfruta la historia original del MK11 y Aftermath, la nueva conclusi\u00f3n de la historia\n\u2022 Juega con todos los personajes de MK11, incluyendo a los nuevos luchadores Sheeva y Fujin\n\u2022 Con todos los personajes invitados, incluyendo al recientemente a\u00f1adido RoboCop y a Terminator, Spawn y el Guas\u00f3n del Paquete de Kombate\n\u2022 Nuevos Friendships, arenas y Fatalities de arena",
         "languages": null,
-        "size": 27052212224
+        "size": 32831963136
     },
     "70070000010161": {
         "id": null,

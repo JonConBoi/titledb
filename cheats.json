@@ -52893,6 +52893,49 @@
         }
     },
     "0100F2200C984000": {
+        "053C0DEF634D577B": {
+            "161c432e1730e8ce58aeb0324791cef41f24258ee3add67e1a272c0280a8a177": {
+                "source": "580F0000 0AF29C78\n580F1000 00000000\n780F0000 00000C18\n640F0000 00000000 3F800000",
+                "title": "[P1 Inf Health]"
+            },
+            "17a932bc515c41068e48ad656b3a840bcdd69a30c461d5b4df78fafbc57cbf3d": {
+                "source": "580F0000 0AF29C78\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 3A000000",
+                "title": "[CPU 1Hit Death]"
+            },
+            "78f88fce282b80f1ba67b1f9c691ea7eab1153a1ecd8385fd5bf52ff5ab2de4d": {
+                "source": "580F0000 0A831990\n780F0000 000003DC\n640F0000 00000000 00000001",
+                "title": "[P1 Inf Fatal Blows]"
+            },
+            "a921108d5b649a64ae21538e4e3b886c022878ead2d4d72c818ce35475f3de04": {
+                "source": "580F0000 0A8346A8\n780F0000 00000184\n640F0000 00000000 00000000",
+                "title": "[CPU No Enhanced Moves]"
+            },
+            "aab24116db4b44bf8478215e5923e650fe7df8555a99df759c1bafa689126902": {
+                "source": "580F0000 0A831990\n780F0000 00000194\n640F0000 00000000 44FA0000",
+                "title": "[P1 Inf Interactions]"
+            },
+            "b35d18dfd3ced4decfee6abd3cec8aedde67ef51cfbab34c529cd771e22d1f85": {
+                "source": "580F0000 0A8346A8\n780F0000 00000194\n640F0000 00000000 00000000",
+                "title": "[CPU No Interactions]"
+            },
+            "d25f504474dbb3dd10e2cb06bd7cd058c30f8e1ecbceeca5a7eb7dfd29db435c": {
+                "source": "580F0000 0A831990\n580F1000 00000158\n780F0000 000003E4\n640F0000 00000000 00000001",
+                "title": "[CPU No Fatal Blows]"
+            },
+            "d659f0210963b7026f3eff35cc348564caf9487bd873577b318f1e520e5ec9ac": {
+                "source": "580F0000 09C9E1D0\n780F1000 000005D0\n610F0000 00000000 000000F0",
+                "title": "[Inf Round Time]"
+            },
+            "e466e112d7d30f6d47de4a79c0ae3e715b536a4f4a3892fc31b9b270120bfbe2": {
+                "source": "580F0000 0A831990\n780F0000 00000184\n640F0000 00000000 44FA0000",
+                "title": "[P1 Inf Enhanced Moves]"
+            },
+            "ee216fccd01332dc7766687f7c12e0a16aa8fa44d535d42ade51344068d59570": {
+                "source": "80000020\n580F0000 0AF29C78\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000",
+                "title": "[CPU 1 Hit Death Press R3]"
+            },
+            "version": 1048576
+        },
         "0A62BA391B96F85A": {
             "122b17082cb9340ac32c97c6ba36465af909c02dabb776e911c524ffba0fef7b": {
                 "source": "580F0000 09B9F970\n780F0000 00000764\n640F0000 00000000 00000000",

@@ -927,11 +927,12 @@
         ],
         "ratingContent": [
             "Blood",
-            "Mild Language",
+            "Drug Reference",
+            "Strong Language",
             "Violence"
         ],
         "numberOfPlayers": 2,
-        "rating": 13,
+        "rating": 17,
         "developer": null,
         "publisher": "Coffee Stain",
         "frontBoxArt": null,
@@ -2655,7 +2656,7 @@
             "ru",
             "ko"
         ],
-        "size": 10207887360
+        "size": 10264510464
     },
     "70010000011410": {
         "id": "01009EA00B714000",
@@ -2704,7 +2705,7 @@
             "zh",
             "zh"
         ],
-        "size": 1570766848
+        "size": 1569718272
     },
     "70010000011664": {
         "id": "010096000B3EA000",
@@ -3130,7 +3131,7 @@
             "fr",
             "pt"
         ],
-        "size": 148897792
+        "size": 147849216
     },
     "70010000013359": {
         "id": "0100A4400BE74000",
@@ -3279,7 +3280,7 @@
             "zh",
             "zh"
         ],
-        "size": 8162115584
+        "size": 8766095360
     },
     "70010000014081": {
         "id": "0100C9F009F7A000",
@@ -3586,7 +3587,7 @@
         "developer": null,
         "publisher": "WB Games",
         "frontBoxArt": null,
-        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/434d07cbc7844ae2faaa481090eb0ade6c645b43f45adf30daac588d738e0f37.jpg",
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/8d889a1ad2d01219752edfac100a2309aa27889577d5fd2318fd392c95724d87.jpg",
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/3d45a55169bcdeccb5fc315d6c0fe7d8f2733a8545e744f1d28b3d68a69083d3.jpg",
         "intro": null,
@@ -3602,7 +3603,7 @@
             "zh",
             "zh"
         ],
-        "size": 26976714752
+        "size": 32756465664
     },
     "70010000015307": {
         "id": "01003BD00CAAE000",
@@ -3957,7 +3958,7 @@
             "zh",
             "zh"
         ],
-        "size": 449839104
+        "size": 452984832
     },
     "70010000016833": {
         "id": "01005DE00D05C000",
@@ -4011,7 +4012,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20190920,
+        "releaseDate": 20200602,
         "nsuId": 70010000016904,
         "category": [
             "RPG",
@@ -4152,7 +4153,7 @@
             "zh",
             "zh"
         ],
-        "size": 749731840
+        "size": 807403520
     },
     "70010000018502": {
         "id": "0100B6400CA56000",
@@ -4786,7 +4787,7 @@
             "ru",
             "ko"
         ],
-        "size": 16101933056
+        "size": 12054429696
     },
     "70010000019857": {
         "id": "010051D00E3A4000",
@@ -5225,7 +5226,6 @@
             "Strategy"
         ],
         "ratingContent": [
-            "Alcohol Reference",
             "Fantasy Violence"
         ],
         "numberOfPlayers": 1,
@@ -5302,7 +5302,7 @@
             "ru",
             "zh"
         ],
-        "size": 8827961344
+        "size": 9431941120
     },
     "70010000020891": {
         "id": "010017700B6C2000",
@@ -5770,7 +5770,7 @@
             "fr",
             "pt"
         ],
-        "size": 190840832
+        "size": 199229440
     },
     "70010000025496": {
         "id": "0100D0B00FB74000",
@@ -6618,7 +6618,7 @@
             "zh",
             "zh"
         ],
-        "size": 14670626816
+        "size": 14729347072
     },
     "70010000029716": {
         "id": "010047700D540000",
@@ -6667,7 +6667,7 @@
             "zh",
             "zh"
         ],
-        "size": 2184183808
+        "size": 2494562304
     },
     "70010000029721": {
         "id": "0100B0500FE4E000",
@@ -9166,7 +9166,8 @@
             "Drug Reference",
             "Partial Nudity",
             "Strong Language",
-            "Violence"
+            "Violence",
+            "In-Game Purchases"
         ],
         "numberOfPlayers": null,
         "rating": 17,
@@ -11595,7 +11596,7 @@
         "intro": "Build Your Greatest Empire on Nintendo Switch\u2122",
         "description": "Sid Meier\u2019s Civilization VI Expansion Bundle, which combines both Rise and Fall and Gathering Storm expansions, takes the turn-based strategy classic to new heights. With 16 new civilizations, 18 new leaders, and major enhancements to gameplay such as Great Ages and an active planet where geology and climatology present unique new challenges, the pursuit of building the greatest empire becomes as exciting as it has ever been in the Civilization franchise.\n\nThe Civilization VI Expansion Bundle contains all features from the Rise and Fall and Gathering Storm expansions, that includes: \n\n\u2022NEW LEADERS AND CIVS: Combined together, sixteen new civilizations and eighteen new leaders are introduced. Each brings unique bonuses and gameplay, as well as unique units, districts, wonders, buildings, and more. \n\n\u2022GREAT AGES: As your civilization ebbs and flows and you reach milestone Historic Moments, you will move towards Dark Ages or Golden Ages, each providing specific challenges or bonuses based on your actions in game. Rise triumphantly from a Dark Age, and your next Golden Age will be even stronger \u2013 a Heroic Age.\n\n\u2022LOYALTY: Cities now have individual Loyalty to your leadership \u2013 let it fall too low, and face the consequences of low yields, revolts, and the potential to lose your city if it declares its own independence. But one civilization\u2019s loss can be your gain as you inspire Loyalty among cities throughout the map and further expand your borders.\n\n\u2022GOVERNORS: Recruit, appoint, and upgrade powerful characters with unique specialization bonuses and promotion trees to customize your cities, and reinforce Loyalty.\n\n\u2022ENHANCED ALLIANCES: An enhanced alliances system allows players to form different types of alliances and build bonuses over time.\n\n\u2022EMERGENCIES: When a civilization grows too powerful, other civilizations can join a pact against the threatening civilization, and earn rewards, or penalties, when the Emergency ends.\n\n\u2022TIMELINE: Review your civilization\u2019s history at any time with the new Timeline feature, a visual journey through the Historic Moments that you encountered on your path to victory. \n\n\u2022ENVIRONMENTAL EFFECTS: Volcanoes, storms (blizzards, sandstorms, tornados, hurricanes), climate change, floods, and droughts bring the world to life in a brand-new way. Your settlement choices are more important than ever as you balance high risks and high rewards. \n\n\u2022POWER AND CONSUMABLE RESOURCES: Strategic resources play an additional role. These resources are now consumed in power plants to generate electricity for your cities. Initially you\u2019ll be powering your most advanced buildings by burning carbon-based resources like Coal and Oil, but renewable energy sources also unlock as you progress to current-day technologies. Your choices about resource usage will directly affect the world\u2019s temperature and can cause melting ice caps and rising sea levels. \n\n\u2022ENGINEERING PROJECTS: Shape the world around your empire to overcome unfavorable land conditions by making improvements like canals, dams, tunnels and railroads. When settling cities, consider the flood risk to coastal lowland areas, but keep in mind that in the late-game, new technologies like Flood Barriers can be used to protect these tiles.\n\n\u2022WORLD CONGRESS: Make your voice heard among the other leaders of the world. Earn Diplomatic Favor through Alliances, influencing city-states, competing in World Games, and more. Use Diplomatic Favor to extract promises from other leaders, vote on Resolutions, call a Special Session to address an emergency, and increase the weight of your votes in your quest to achieve the new Diplomatic Victory. \n\n\u202221st CENTURY TECHNOLOGIES & CIVICS: A new era has been added to the Technology and Civics trees. Combat new environmental effects with speculative ideas such as relocating your population out to seasteads and developing technologies to recapture carbon emissions.",
         "languages": null,
-        "size": 3832545280
+        "size": 3661627392
     },
     "70050000015201": {
         "id": "0100B6400CA57064",
@@ -12215,7 +12216,7 @@
         "intro": null,
         "description": "Optional downloadable French Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
         "languages": null,
-        "size": 506462208
+        "size": 578813952
     },
     "70050000015641": {
         "id": "0100F8600E21F008",
@@ -12246,7 +12247,7 @@
         "intro": null,
         "description": "Optional downloadable German Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
         "languages": null,
-        "size": 562036736
+        "size": 613416960
     },
     "70050000015642": {
         "id": "0100F8600E21F004",
@@ -12277,7 +12278,7 @@
         "intro": null,
         "description": "Optional downloadable Italian Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
         "languages": null,
-        "size": 540016640
+        "size": 590348288
     },
     "70050000015643": {
         "id": "0100F8600E21F009",
@@ -12308,7 +12309,7 @@
         "intro": null,
         "description": "Optional downloadable Brazilian Portuguese Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
         "languages": null,
-        "size": 565182464
+        "size": 619708416
     },
     "70050000015644": {
         "id": "0100F8600E21F005",
@@ -12339,7 +12340,7 @@
         "intro": null,
         "description": "Optional downloadable Russian Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
         "languages": null,
-        "size": 535822336
+        "size": 589299712
     },
     "70050000015645": {
         "id": "0100F8600E21F002",
@@ -12370,7 +12371,7 @@
         "intro": null,
         "description": "Optional downloadable Castilian Spanish Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
         "languages": null,
-        "size": 564133888
+        "size": 611319808
     },
     "70050000015646": {
         "id": "0100F8600E21F003",
@@ -12401,7 +12402,7 @@
         "intro": null,
         "description": "Optional downloadable Latin American Spanish Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
         "languages": null,
-        "size": 570425344
+        "size": 621805568
     },
     "70050000015647": {
         "id": "0100F8600E21F00D",
@@ -12432,7 +12433,7 @@
         "intro": null,
         "description": "Optional downloadable Japanese Language Pack for Overwatch Legendary Edition on Nintendo Switch.",
         "languages": null,
-        "size": 487587840
+        "size": 537919488
     },
     "70050000015648": {
         "id": "0100F8600E21F00A",
@@ -12463,7 +12464,7 @@
         "intro": null,
         "description": "Optional downloadable Korean Pack for Overwatch Legendary Edition on Nintendo Switch.",
         "languages": null,
-        "size": 540016640
+        "size": 594542592
     },
     "70050000015961": {
         "id": "0100F2200C985012",
@@ -15350,7 +15351,7 @@
     "70050000019712": {
         "id": "0100F2200C985017",
         "rightsId": null,
-        "name": "AM Preorder DLC",
+        "name": "Eternal Klash Skin Pack",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -15372,9 +15373,9 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8072afc9d42fabd70399673828f58721dd518622b72a0e2e3b28f0f4ee5df730.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/91444124285ac96b10cae2add98e26e3f60f222366aace5469c8a12c9e2fadc5.jpg",
         "intro": null,
-        "description": "AM Preorder DLC",
+        "description": "Three new character skins. The Eternal Klash Skin Pack includes Unbound Rage Scorpion, inspired by MK9; Son of Arctika Sub-Zero, inspired by Mortal Kombat: Deception; and Kori Power Frost, a Klassic interpretation.",
         "languages": null,
         "size": 4194304
     },
@@ -15504,7 +15505,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20200526,
+        "releaseDate": 20200616,
         "nsuId": 70050000020504,
         "category": null,
         "ratingContent": [
@@ -15535,7 +15536,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20200526,
+        "releaseDate": 20200616,
         "nsuId": 70050000020505,
         "category": null,
         "ratingContent": [
@@ -15566,7 +15567,7 @@
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": 20200526,
+        "releaseDate": 20200616,
         "nsuId": 70050000020506,
         "category": null,
         "ratingContent": [
@@ -15592,7 +15593,7 @@
     "70050000020507": {
         "id": "0100F2200C985016",
         "rightsId": null,
-        "name": "AM Story DLC",
+        "name": "Mortal Kombat\u00a011: Aftermath Story",
         "version": null,
         "key": null,
         "isDemo": false,
@@ -15614,14 +15615,14 @@
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8072afc9d42fabd70399673828f58721dd518622b72a0e2e3b28f0f4ee5df730.jpg",
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/5a0ae69df2bc712bf175ff799cbff220c3f0892845024fa840e53d22efd838ad.jpg",
         "intro": null,
-        "description": null,
+        "description": "Aftermath features a brand-new cinematic story centered around trust and deceit. Fire God Liu Kang, the new keeper of time and protector of Earthrealm, looks to secure the future he envisions. In order to do so, he is forced to enlist the help of some unlikely allies and familiar foes. Players will have to decide who they can trust and who they must defeat with fate on the line. Forge a new history.\n\nIncludes: \n\n\u2022 All-New Cinematic Story",
         "languages": null,
         "size": 4194304
     },
     "70050000020521": {
-        "id": null,
+        "id": "010044500C183004",
         "rightsId": null,
         "name": "Civilization VI - Maya & Gran Colombia Pack",
         "version": null,
@@ -15776,55 +15777,281 @@
         "languages": null,
         "size": 4194304
     },
-    "70070000000041": {
-        "id": null,
+    "70050000020784": {
+        "id": "010044500C183009",
         "rightsId": null,
-        "name": null,
+        "name": "Civilization VI - New Frontier Pass",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
-        "nsuId": 70070000000041,
+        "releaseDate": 20221201,
+        "nsuId": 70050000020784,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Drug Reference",
+            "Language",
+            "Mild Violence",
+            "Suggestive Themes",
+            "Users Interact"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 10,
         "developer": null,
-        "publisher": null,
+        "publisher": "2K",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
         "intro": null,
-        "description": null,
+        "description": "Continue your quest to build your greatest empire with the Civilization VI - New Frontier Pass, featuring eight new civilizations and nine new leaders, and a variety of new gameplay content, including six new game modes. Delivering six DLC packs on a bimonthly basis from May 2020 to March 2021, the New Frontier Pass includes:\n\n\u2022 Pack #1: Maya & Gran Colombia Pack. Adds two new civilizations and leaders, one new game mode*, new City States, Resources, and Natural Wonders. Available May 2020.\n\u2022 Pack #2: Ethiopia Pack. Adds one new civilization and leader, one new game mode*, one new District and two new Buildings. Available July 2020.\n\u2022 Pack #3: Adds two new civilizations and leaders, one new game mode*, new World Wonders, and one new map. Available September 2020.\n\u2022 Pack #4: Adds one new civilization and leader, one new game mode, new City States, and numerous new Great People. Available November 2020.\n\u2022 Pack #5: Adds one new civilization and two new leaders**, one new game mode, a new District, and two new Buildings. Available January 2021.\n\u2022 Pack #6: Adds one new civilization and leader, one new game mode, new World Wonders, and one new map. Available March 2021. \n\n*New game mode requires the Civilization VI Expansion Bundle to play.\n**New leader requires the Civilization VI Expansion Bundle to play.\n\nGame modes can include additional content such as new units, buildings, or improvements and can be turned on or off during game setup to apply significant and dramatic changes to the rules of the game.\n\nExclusive bonus: Teddy Roosevelt and Catherine De Medici Persona Packs.  Each Persona Pack contains a brand-new take on a favorite leader, with a new leader model and background, new gameplay bonuses, and an updated agenda that reflect the changes to the leader\u2019s personality. The Persona Packs are available exclusively to owners of the New Frontier Pass and will be delivered with the second add-on pack. ",
         "languages": null,
-        "size": 0
+        "size": 6291456
+    },
+    "70050000020785": {
+        "id": "010044500C183007",
+        "rightsId": null,
+        "name": "Civilization VI - New Frontier Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221201,
+        "nsuId": 70050000020785,
+        "category": null,
+        "ratingContent": [
+            "Drug Reference",
+            "Language",
+            "Mild Violence",
+            "Suggestive Themes",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "intro": null,
+        "description": "Continue your quest to build your greatest empire with the Civilization VI - New Frontier Pass, featuring eight new civilizations and nine new leaders, and a variety of new gameplay content, including six new game modes. Delivering six DLC packs on a bimonthly basis from May 2020 to March 2021, the New Frontier Pass includes:\n\n\u2022 Pack #1: Maya & Gran Colombia Pack. Adds two new civilizations and leaders, one new game mode*, new City States, Resources, and Natural Wonders. Available May 2020.\n\u2022 Pack #2: Ethiopia Pack. Adds one new civilization and leader, one new game mode*, one new District and two new Buildings. Available July 2020.\n\u2022 Pack #3: Adds two new civilizations and leaders, one new game mode*, new World Wonders, and one new map. Available September 2020.\n\u2022 Pack #4: Adds one new civilization and leader, one new game mode, new City States, and numerous new Great People. Available November 2020.\n\u2022 Pack #5: Adds one new civilization and two new leaders**, one new game mode, a new District, and two new Buildings. Available January 2021.\n\u2022 Pack #6: Adds one new civilization and leader, one new game mode, new World Wonders, and one new map. Available March 2021. \n\n*New game mode requires the Civilization VI Expansion Bundle to play.\n**New leader requires the Civilization VI Expansion Bundle to play.\n\nGame modes can include additional content such as new units, buildings, or improvements and can be turned on or off during game setup to apply significant and dramatic changes to the rules of the game.\n\nExclusive bonus: Teddy Roosevelt and Catherine De Medici Persona Packs.  Each Persona Pack contains a brand-new take on a favorite leader, with a new leader model and background, new gameplay bonuses, and an updated agenda that reflect the changes to the leader\u2019s personality. The Persona Packs are available exclusively to owners of the New Frontier Pass and will be delivered with the second add-on pack. ",
+        "languages": null,
+        "size": 6291456
+    },
+    "70050000020786": {
+        "id": "010044500C183006",
+        "rightsId": null,
+        "name": "Civilization VI - New Frontier Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221201,
+        "nsuId": 70050000020786,
+        "category": null,
+        "ratingContent": [
+            "Drug Reference",
+            "Language",
+            "Mild Violence",
+            "Suggestive Themes",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "intro": null,
+        "description": "Continue your quest to build your greatest empire with the Civilization VI - New Frontier Pass, featuring eight new civilizations and nine new leaders, and a variety of new gameplay content, including six new game modes. Delivering six DLC packs on a bimonthly basis from May 2020 to March 2021, the New Frontier Pass includes:\n\n\u2022 Pack #1: Maya & Gran Colombia Pack. Adds two new civilizations and leaders, one new game mode*, new City States, Resources, and Natural Wonders. Available May 2020.\n\u2022 Pack #2: Ethiopia Pack. Adds one new civilization and leader, one new game mode*, one new District and two new Buildings. Available July 2020.\n\u2022 Pack #3: Adds two new civilizations and leaders, one new game mode*, new World Wonders, and one new map. Available September 2020.\n\u2022 Pack #4: Adds one new civilization and leader, one new game mode, new City States, and numerous new Great People. Available November 2020.\n\u2022 Pack #5: Adds one new civilization and two new leaders**, one new game mode, a new District, and two new Buildings. Available January 2021.\n\u2022 Pack #6: Adds one new civilization and leader, one new game mode, new World Wonders, and one new map. Available March 2021. \n\n*New game mode requires the Civilization VI Expansion Bundle to play.\n**New leader requires the Civilization VI Expansion Bundle to play.\n\nGame modes can include additional content such as new units, buildings, or improvements and can be turned on or off during game setup to apply significant and dramatic changes to the rules of the game.\n\nExclusive bonus: Teddy Roosevelt and Catherine De Medici Persona Packs.  Each Persona Pack contains a brand-new take on a favorite leader, with a new leader model and background, new gameplay bonuses, and an updated agenda that reflect the changes to the leader\u2019s personality. The Persona Packs are available exclusively to owners of the New Frontier Pass and will be delivered with the second add-on pack. ",
+        "languages": null,
+        "size": 6291456
+    },
+    "70050000020787": {
+        "id": "010044500C18300B",
+        "rightsId": null,
+        "name": "Civilization VI - New Frontier Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221201,
+        "nsuId": 70050000020787,
+        "category": null,
+        "ratingContent": [
+            "Drug Reference",
+            "Language",
+            "Mild Violence",
+            "Suggestive Themes",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "intro": null,
+        "description": "Continue your quest to build your greatest empire with the Civilization VI - New Frontier Pass, featuring eight new civilizations and nine new leaders, and a variety of new gameplay content, including six new game modes. Delivering six DLC packs on a bimonthly basis from May 2020 to March 2021, the New Frontier Pass includes:\n\n\u2022 Pack #1: Maya & Gran Colombia Pack. Adds two new civilizations and leaders, one new game mode*, new City States, Resources, and Natural Wonders. Available May 2020.\n\u2022 Pack #2: Ethiopia Pack. Adds one new civilization and leader, one new game mode*, one new District and two new Buildings. Available July 2020.\n\u2022 Pack #3: Adds two new civilizations and leaders, one new game mode*, new World Wonders, and one new map. Available September 2020.\n\u2022 Pack #4: Adds one new civilization and leader, one new game mode, new City States, and numerous new Great People. Available November 2020.\n\u2022 Pack #5: Adds one new civilization and two new leaders**, one new game mode, a new District, and two new Buildings. Available January 2021.\n\u2022 Pack #6: Adds one new civilization and leader, one new game mode, new World Wonders, and one new map. Available March 2021. \n\n*New game mode requires the Civilization VI Expansion Bundle to play.\n**New leader requires the Civilization VI Expansion Bundle to play.\n\nGame modes can include additional content such as new units, buildings, or improvements and can be turned on or off during game setup to apply significant and dramatic changes to the rules of the game.\n\nExclusive bonus: Teddy Roosevelt and Catherine De Medici Persona Packs.  Each Persona Pack contains a brand-new take on a favorite leader, with a new leader model and background, new gameplay bonuses, and an updated agenda that reflect the changes to the leader\u2019s personality. The Persona Packs are available exclusively to owners of the New Frontier Pass and will be delivered with the second add-on pack. ",
+        "languages": null,
+        "size": 6291456
+    },
+    "70050000020788": {
+        "id": "010044500C18300A",
+        "rightsId": null,
+        "name": "Civilization VI - New Frontier Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221201,
+        "nsuId": 70050000020788,
+        "category": null,
+        "ratingContent": [
+            "Drug Reference",
+            "Language",
+            "Mild Violence",
+            "Suggestive Themes",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "intro": null,
+        "description": "Continue your quest to build your greatest empire with the Civilization VI - New Frontier Pass, featuring eight new civilizations and nine new leaders, and a variety of new gameplay content, including six new game modes. Delivering six DLC packs on a bimonthly basis from May 2020 to March 2021, the New Frontier Pass includes:\n\n\u2022 Pack #1: Maya & Gran Colombia Pack. Adds two new civilizations and leaders, one new game mode*, new City States, Resources, and Natural Wonders. Available May 2020.\n\u2022 Pack #2: Ethiopia Pack. Adds one new civilization and leader, one new game mode*, one new District and two new Buildings. Available July 2020.\n\u2022 Pack #3: Adds two new civilizations and leaders, one new game mode*, new World Wonders, and one new map. Available September 2020.\n\u2022 Pack #4: Adds one new civilization and leader, one new game mode, new City States, and numerous new Great People. Available November 2020.\n\u2022 Pack #5: Adds one new civilization and two new leaders**, one new game mode, a new District, and two new Buildings. Available January 2021.\n\u2022 Pack #6: Adds one new civilization and leader, one new game mode, new World Wonders, and one new map. Available March 2021. \n\n*New game mode requires the Civilization VI Expansion Bundle to play.\n**New leader requires the Civilization VI Expansion Bundle to play.\n\nGame modes can include additional content such as new units, buildings, or improvements and can be turned on or off during game setup to apply significant and dramatic changes to the rules of the game.\n\nExclusive bonus: Teddy Roosevelt and Catherine De Medici Persona Packs.  Each Persona Pack contains a brand-new take on a favorite leader, with a new leader model and background, new gameplay bonuses, and an updated agenda that reflect the changes to the leader\u2019s personality. The Persona Packs are available exclusively to owners of the New Frontier Pass and will be delivered with the second add-on pack. ",
+        "languages": null,
+        "size": 6291456
+    },
+    "70050000020789": {
+        "id": "010044500C18300C",
+        "rightsId": null,
+        "name": "Civilization VI - New Frontier Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221201,
+        "nsuId": 70050000020789,
+        "category": null,
+        "ratingContent": [
+            "Drug Reference",
+            "Language",
+            "Mild Violence",
+            "Suggestive Themes",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "intro": null,
+        "description": "Continue your quest to build your greatest empire with the Civilization VI - New Frontier Pass, featuring eight new civilizations and nine new leaders, and a variety of new gameplay content, including six new game modes. Delivering six DLC packs on a bimonthly basis from May 2020 to March 2021, the New Frontier Pass includes:\n\n\u2022 Pack #1: Maya & Gran Colombia Pack. Adds two new civilizations and leaders, one new game mode*, new City States, Resources, and Natural Wonders. Available May 2020.\n\u2022 Pack #2: Ethiopia Pack. Adds one new civilization and leader, one new game mode*, one new District and two new Buildings. Available July 2020.\n\u2022 Pack #3: Adds two new civilizations and leaders, one new game mode*, new World Wonders, and one new map. Available September 2020.\n\u2022 Pack #4: Adds one new civilization and leader, one new game mode, new City States, and numerous new Great People. Available November 2020.\n\u2022 Pack #5: Adds one new civilization and two new leaders**, one new game mode, a new District, and two new Buildings. Available January 2021.\n\u2022 Pack #6: Adds one new civilization and leader, one new game mode, new World Wonders, and one new map. Available March 2021. \n\n*New game mode requires the Civilization VI Expansion Bundle to play.\n**New leader requires the Civilization VI Expansion Bundle to play.\n\nGame modes can include additional content such as new units, buildings, or improvements and can be turned on or off during game setup to apply significant and dramatic changes to the rules of the game.\n\nExclusive bonus: Teddy Roosevelt and Catherine De Medici Persona Packs.  Each Persona Pack contains a brand-new take on a favorite leader, with a new leader model and background, new gameplay bonuses, and an updated agenda that reflect the changes to the leader\u2019s personality. The Persona Packs are available exclusively to owners of the New Frontier Pass and will be delivered with the second add-on pack. ",
+        "languages": null,
+        "size": 12582912
+    },
+    "70050000020790": {
+        "id": "010044500C183008",
+        "rightsId": null,
+        "name": "Civilization VI - New Frontier Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20221201,
+        "nsuId": 70050000020790,
+        "category": null,
+        "ratingContent": [
+            "Drug Reference",
+            "Language",
+            "Mild Violence",
+            "Suggestive Themes",
+            "Users Interact"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "2K",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/d8f7afbd864e1c438c0b381d0efeef640a30ec38ea6be799b23b0cb9a7e3a47a.jpg",
+        "intro": null,
+        "description": "Continue your quest to build your greatest empire with the Civilization VI - New Frontier Pass, featuring eight new civilizations and nine new leaders, and a variety of new gameplay content, including six new game modes. Delivering six DLC packs on a bimonthly basis from May 2020 to March 2021, the New Frontier Pass includes:\n\n\u2022 Pack #1: Maya & Gran Colombia Pack. Adds two new civilizations and leaders, one new game mode*, new City States, Resources, and Natural Wonders. Available May 2020.\n\u2022 Pack #2: Ethiopia Pack. Adds one new civilization and leader, one new game mode*, one new District and two new Buildings. Available July 2020.\n\u2022 Pack #3: Adds two new civilizations and leaders, one new game mode*, new World Wonders, and one new map. Available September 2020.\n\u2022 Pack #4: Adds one new civilization and leader, one new game mode, new City States, and numerous new Great People. Available November 2020.\n\u2022 Pack #5: Adds one new civilization and two new leaders**, one new game mode, a new District, and two new Buildings. Available January 2021.\n\u2022 Pack #6: Adds one new civilization and leader, one new game mode, new World Wonders, and one new map. Available March 2021. \n\n*New game mode requires the Civilization VI Expansion Bundle to play.\n**New leader requires the Civilization VI Expansion Bundle to play.\n\nGame modes can include additional content such as new units, buildings, or improvements and can be turned on or off during game setup to apply significant and dramatic changes to the rules of the game.\n\nExclusive bonus: Teddy Roosevelt and Catherine De Medici Persona Packs.  Each Persona Pack contains a brand-new take on a favorite leader, with a new leader model and background, new gameplay bonuses, and an updated agenda that reflect the changes to the leader\u2019s personality. The Persona Packs are available exclusively to owners of the New Frontier Pass and will be delivered with the second add-on pack. ",
+        "languages": null,
+        "size": 12582912
+    },
+    "70070000000041": {
+        "id": null,
+        "rightsId": null,
+        "name": "The Legend of Zelda: Breath of the Wild Expansion Pass",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20170302,
+        "nsuId": 70070000000041,
+        "category": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Mild Suggestive Themes",
+            "Use of Alcohol"
+        ],
+        "numberOfPlayers": null,
+        "rating": 10,
+        "developer": null,
+        "publisher": "Nintendo",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/2e95a9a33f95a2c3efc7b695ca384d215e30dce6c49fac808cbb4965db288a3a.jpg",
+        "intro": null,
+        "description": "The expansion pass includes DLC Pack 1: The Master Trials and DLC Pack 2: The Champions' Ballad.\n\nExpansion Pass Bonus\n\u2022 Three treasure chests with in-game clothing exclusive to the expansion pass will be added to the Great Plateau.\n\nDLC Pack 1: The Master Trials will include the following:\n\n1. Trial of the Sword\nVisit a certain location to challenge the Trial of the Sword, where you must vanquish waves of enemies to progress from one room to the next. You will start this challenge without any armor, equipment, or food items to aid you. If you complete all 45 rooms, Link's mind and body will be strong enough to wield the Master Sword's full power and splendor any time the sword is usable! \n\n2. Hero's Path Mode\nView the path you've taken on your journey. It will record your journey for up to 200 hours of gameplay. Use this feature to find shrines and Koroks! You can even manually adjust the replay speed.\n\n3. Master Mode\nIn Master Mode, most enemies you encounter will be one tier higher than they originally were. There is also a new top tier of enemies that don't appear in Normal Mode! Additionally, enemies will recover health if you stop attacking them, and they will also notice Link more easily. You also might find enemies and treasure chests floating in the air!\n\n4. Travel Medallion\nThe Travel Medallion will be hidden in a treasure chest somewhere. Place it at your current location and you will be able to travel there whenever you please. You can only register one location at a time, but this addition should aid you in your journey.\n\n5. 8 clothing items hidden in treasure chests\nItems honoring the legacy of The Legend of Zelda series (Majora's Mask, Midna's Helmet, Tingle's Hood, Tingle's Shirt, Tingle's Tights, Phantom Helmet, Phantom Armor, and Phantom Greaves) will be hidden in 8 treasure chests scattered across Hyrule. There are hints to help you find these items hidden somewhere as well. Search for these hints and treasures while you journey across Hyrule!\n\n6. Korok Mask\nThe Korok Mask is an item that will be hidden in a treasure chest somewhere in Hyrule, and unlike the 8 items mentioned above, this one has a special ability. When Link wears this mask, it will shake when a hidden Korok is nearby!\n\nDLC Pack 2: The Champions' Ballad will include the following:\n\n1.\u3000The Champions' Ballad\nA mysterious voice beckons Link to challenge the Divine Beast Tamer's Trials. He must now prove himself by defeating enemies using the One-Hit Obliterator, conquering new Shrines, challenging a full dungeon, and overcoming many trials along the way. Once all challenges and trials have been bested, Link will obtain a new power known as the Master Cycle Zero!\n\nAdditionally, the bard Kass is traveling Hyrule to complete the unfinished song his teacher left behind. As Link and Kass chase their respective goals, Kass will share new original songs he wrote capturing lost memories of the four Champions and Zelda, previously unknown to Link. But that unfinished song... What could it be? \n\n*To play The Champions' Ballad, you must first complete the Main Quest to free the four Divine Beasts. \n\n2.\u30009 clothing items hidden in treasure chests\nItems honoring the legacy of The Legend of Zelda series will be hidden in 9 treasure chests scattered across Hyrule, including the Island Lobster Shirt, Ravio's Hood, Zant's Helmet, Phantom Ganon Skull, Phantom Ganon Armor, Phantom Ganon Greaves, and a Royal Guard outfit (complete with Royal Guard Cap, Royal Guard Uniform, and Royal Guard Boots).\n\n3.\u3000Ancient Horse Gear\nThe Ancient Bridle will increase a horse's number of spurs while equipped. The Ancient Saddle will allow you to call your horse no matter how far away they are. Both of these items will appear in treasure chests somewhere in Hyrule.",
+        "languages": null,
+        "size": 1401946112
     },
     "70070000000441": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Fire Emblem Warriors Season Pass",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20171020,
         "nsuId": 70070000000441,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Suggestive Themes",
+            "Violence"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 13,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/5c3ce7a3b829495ac0c04af35b4023695b057d2698fa589d4d20ecd9c9bef92e.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c9757a7c85755d39c5b22f4615e3b67b5c4cd006e6c96959b181062dcc667bb3.jpg",
         "intro": null,
-        "description": null,
+        "description": "This pass grants you access to three upcoming DLC packs at a discounted price. The three packs are as follows:\n\n\u30fbFire Emblem Fates DLC Pack\n\u30fbFire Emblem: Shadow Dragon DLC Pack\n\u30fbFire Emblem Awakening DLC Pack\n\nAs a bonus, you'll be able to use a new costume for Lucina, the Bride costume, from day of purchase.",
         "languages": null,
-        "size": 0
+        "size": 3595567104
     },
     "70070000000481": {
         "id": null,
@@ -15862,27 +16089,32 @@
     "70070000000644": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Xenoblade Chronicles\u2122 2 Expansion Pass",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20171201,
         "nsuId": 70070000000644,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Language",
+            "Suggestive Themes",
+            "Use of Alcohol and Tobacco",
+            "Violence"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 13,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
-        "intro": null,
-        "description": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/ae576c430a16ff5ba985307593d02b01f7f636c7959013413391b7dce4222e58.jpg",
+        "intro": "A Titan\u2019s worth of new content",
+        "description": "If you own the Xenoblade Chronicles\u2122 2 game and buy this Expansion Pass, you\u2019ll gain access to some titanic new content, including new Rare Blades such as Shulk and Fiora, bonus items, new quests, Challenge Battle mode, and the new stand-alone game, Xenoblade Chronicles\u2122 2: Torna ~ The Golden Country! \n\nIn Xenoblade Chronicles\u2122 2, entire civilizations rest on the backs of Titans. As the giant beasts march toward death, the last hope is a scavenger named Rex\u2014and Pyra, a living weapon known as a Blade. Can you find the fabled paradise she calls home? Command a group of Blades and lead them to countless strategic victories before the world ends. You\u2019ll get to know a large cast of eclectic characters, including the weaponized life forms known as Blades. Gather these allies, bond with them to increase their power, and utilize their special ARTS to devastate enemies. But to save the world of Alrest, you must first demystify its cloudy past.",
         "languages": null,
-        "size": 0
+        "size": 4038066176
     },
     "70070000000661": {
         "id": null,
@@ -15984,27 +16216,30 @@
     "70070000001021": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Pokk\u00e9n Tournament DX Battle Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20180111,
         "nsuId": 70070000001021,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "Online Interactions Not Rated by the ESRB"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 10,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/6c215efd0f8a03185c940146257b0282a79ac9912fb6ca94c7e3c0d609628e9d.jpg",
         "intro": null,
-        "description": null,
+        "description": "The Pokk\u00e9n Tournament DX Battle Pack grants access to additional DLC content as it is released.  This Battle Pack contains 2 new battle Pok\u00e9mon and 2 new support Pok\u00e9mon pairs. This new content will be released early 2018.\n\nAdditional Info:\nBoasting strong offense AND defense, the technical-style Battle Pok\u00e9mon Aegislash can switch between two forms, and you can wield them both when this new playable character and other Pok\u00e9mon become available through the paid DLC, Pokk\u00e9n Tournament DX Battle Pack.\n\nThis content will be released in two waves, with the first containing Aegislash and a new Support Pok\u00e9mon Set featuring Mega Rayquaza and Mimikyu. The second wave includes the new Battle Pok\u00e9mon Blastoise and a new Support Pok\u00e9mon Set featuring Mew and Celebi. These Battle Packs will also include Avatar items and more. With these new Pok\u00e9mon joining the fray, the battle is just getting started.\n",
         "languages": null,
-        "size": 0
+        "size": 8388608
     },
     "70070000001041": {
         "id": null,
@@ -16037,27 +16272,30 @@
     "70070000001541": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Splatoon\u2122 2: Octo Expansion",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20180308,
         "nsuId": 70070000001541,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Online Interactions Not Rated by the ESRB"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 10,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
-        "intro": null,
-        "description": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/421aa0d8dce89d516fc61660614493eebc1b28b82562c4f3233a50ca3a0ddce9.jpg",
+        "intro": "Play as an Octoling!",
+        "description": "Play as an Octoling for the very first time in this large-scale downloadable content for the Splatoon\u2122 2 game! This full-on single-player adventure spans 80 missions starring Agent 8, a new character who awakens without her memories on a dark subway platform. Navigate this mysterious underground test facility in a desperate battle to reach the surface of Inkopolis. Escape from these twisted depths, and you\u2019ll finally be able to join multiplayer* matches as an Octoling! \n\nYou may think you know everything about the world of Splatoon, but these waters run deep, and so does the lore. Purchase this content today for immediate access to special octo-themed in-game gear.\n",
         "languages": null,
-        "size": 0
+        "size": 2166358016
     },
     "70070000001542": {
         "id": null,
@@ -16090,27 +16328,30 @@
     "70070000002404": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Expedition 3-Pack Bundle",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20180529,
         "nsuId": 70070000002404,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Mild Fantasy Violence",
+            "In-Game Purchases"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 6,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
-        "intro": null,
-        "description": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/449ce648b12a7b384eaea242bfd448794d10368a6dd4a268c36b0009fb63ceb2.jpg",
+        "intro": "You can purchase all three Expedition Packs in one bundle for a special price!",
+        "description": "This bundle brings all three Expedition Packs together for a special price.\n\nThe bundle includes:\n\n\u2022 Expedition Pack\n\u2022 Great Expedition Pack\n\u2022 Ultra Expedition Pack\n\nIf you would like to know the contents of a specific Expedition Pack, please view the product information page for that pack.",
         "languages": null,
-        "size": 0
+        "size": 12582912
     },
     "70070000003245": {
         "id": null,
@@ -16150,52 +16391,93 @@
     "70070000003448": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Starlink: Battle for Atlas\u2122 Collection 1 Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20181213,
         "nsuId": 70070000003448,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Fantasy Violence",
+            "In-Game Purchases"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 10,
         "developer": null,
-        "publisher": null,
+        "publisher": "Ubisoft",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/f1692b3f2f113d314885986f79dc1c5b58d228d62a04fb0d4349bef502f6348a.jpg",
         "intro": null,
-        "description": null,
+        "description": "Gain the advantage in your battle with the Forgotten Legion with the entire first collection of pilots, starships, and weapons. \n\n*Starlink: Battle For Atlas game required to play.  Some items included in Digital and Deluxe Editions. The Starlink: Battle for Atlas\u2122 Collection 1 Pack* includes: \n\nStarships:\nNeptune\nPulse\nLance\nNadir\n\nPilots:\nLevi McCray\nJudge\nChase da Silva\nHunter Hakka\nShaid\nRazor Lemay\nEli Arborwood\nKharl Zeon\n\nWeapons:\nIron Fist\nCrusher\nShockwave\nHailstorm\nLevitator\nVolcano\nImploder\nNullifier Missiles\nFreeze Ray Mk.2\nShredder Mk.2\nGauss Gun Mk.2\nMeteor Mk.2 \n\nMaximize your team's potential with the complete first wave of the Starlink: Battle for Atlas\u2122 fleet. \n\n*Starlink: Battle For Atlas game required to play.\n\nDon't have the game yet?  Check out the Starlink: Battle for Atlas Deluxe Edition, which features everything here plus the game.",
         "languages": null,
-        "size": 0
+        "size": 50331648
     },
     "70070000003621": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Super Smash Bros.\u2122 Ultimate: Fighters Pass",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20181207,
         "nsuId": 70070000003621,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Cartoon Violence",
+            "Comic Mischief",
+            "Suggestive Themes",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 10,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
-        "intro": null,
-        "description": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/87896579c98cab4163c1e95017a011e69d29f755ffdf805435dd51de42e3bfb9.jpg",
+        "intro": "Expand your roster of fighters with the Super Smash Bros.\u2122 Ultimate Fighters Pass!",
+        "description": "Expand your roster of fighters with the Super Smash Bros.\u2122 Ultimate Fighters Pass for the Super Smash Bros. Ultimate game! Purchase the Fighters Pass now to get access to five additional playable fighters, five stages, and additional music. Announced fighters include Joker, the Hero, Banjo & Kazooie, Terry Bogard, and Byleth!\n\nThis Fighters Pass contains all five Challenger Packs.\n\nChallenger Pack 1 includes Joker as a playable fighter, his stage, and a selection of music. \n\nChallenger Pack 2 includes Hero as a playable fighter, his stage, and a selection of music.\n\nChallenger Pack 3 includes Banjo & Kazooie as a playable fighter, their stage, and a selection of music from the Banjo-Kazooie\u2122 series.\n\nChallenger Pack 4 includes Terry Bogard as a playable fighter, his stage, and a selection of music from SNK titles.\n\nChallenger Pack 5 includes Byleth as a playable fighter, their stage, and a selection of music from the Fire Emblem series.\n\n\n",
         "languages": null,
-        "size": 0
+        "size": 25165824
+    },
+    "70070000004222": {
+        "id": null,
+        "rightsId": null,
+        "name": "Travis Strikes Again: No More Heroes - Season Pass: Black Dandelion & Bubblegum Fatale",
+        "version": null,
+        "key": null,
+        "isDemo": false,
+        "region": null,
+        "releaseDate": 20190118,
+        "nsuId": 70070000004222,
+        "category": null,
+        "ratingContent": [
+            "Blood",
+            "Drug Reference",
+            "Partial Nudity",
+            "Strong Language",
+            "Violence",
+            "In-Game Purchases"
+        ],
+        "numberOfPlayers": null,
+        "rating": 17,
+        "developer": null,
+        "publisher": "Grasshopper Manufacture",
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "screenshots": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/b66070bce0f9c1184780a9a39e9db5528460973d48d2e012983a627c495f515b.jpg",
+        "intro": null,
+        "description": "This season pass allows you to pre-purchase multiple items of DLC at once. It includes the following two DLC packs:\n\nDLC #1 - Black Dandelion\nThis DLC includes the following:\n- Shinobu Jacobs, a new playable character\n- 2 unique Skills for Shinobu Jacobs\n- New adventure mode starring Badman\n\nDLC #2 - Bubblegum Fatale\nThis DLC includes the following:\n- Bad Girl, a new playable character\n- 2 unique Skills for Bad Girl\n- Additional game world: \"Killer Marathon\"\n- New Skill\n- New adventure mode content for Travis\n\n* Content and timing for the release of the above-mentioned DLC are subject to change based on circumstances\n\n",
+        "languages": null,
+        "size": 386924544
     },
     "70070000004223": {
         "id": null,
@@ -16232,27 +16514,36 @@
     "70070000005061": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Captain Toad\u2122: Treasure Tracker - Special Episode",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20190213,
         "nsuId": 70070000005061,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Mild Cartoon Violence"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 6,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
-        "screenshots": null,
-        "bannerUrl": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/cc0bc04661bf65586f29d0b6ca32319fa0255fb0453679195bdf91ae4f0dedc9.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/3589c7eaf1f2a86d29c2aa5138919a0baa8e3efada3da0dc10b0139230012c7c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/9636c252a67816f8234aed83167e870304916b61b64524f34e25e7646ff0d400.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/b8162324492e8e5b66f9d2bd74dd008b753948d8bb7ec8e176d1843cab417fbc.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8bda70472e850d02454950e100f80465d282c45448fd227bfa45c06774e936ab.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f2a88c40a7454a0680d4c268125982dfb756953779eb8e8640ddf98b5f9fe26d.jpg"
+        ],
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/9965d3b6705679296249992ccb9445edb68c46f00072ecb2fe89a132e7512c39.jpg",
         "intro": null,
-        "description": null,
+        "description": "As of February 13th, 2019, you can purchase the Captain Toad: Treasure Tracker - Special Episode DLC to continue your journey with eighteen new challenges, including five brand-new courses. Purchase and download this content before March 14th for early access to one of the courses! The remainder of the DLC will be available on March 14th. Naturally, you can play all of the courses with a friend or alone. Either way, you\u2019ll dodge dangers and track treasures across many trap-filled miniature worlds; some are even based on the Super Mario Odyssey\u2122 game!",
         "languages": null,
-        "size": 0
+        "size": 274726912
     },
     "70070000005062": {
         "id": null,
@@ -16322,52 +16613,60 @@
     "70070000005704": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Mortal Kombat 11 Kombat Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20190422,
         "nsuId": 70070000005704,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Blood and Gore",
+            "Intense Violence",
+            "Strong Language",
+            "Users Interact",
+            "In-Game Purchases"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 17,
         "developer": null,
-        "publisher": null,
+        "publisher": "WB Games",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/21b740b5667c146554b87d3311319571282395bb80c5ad519d6ef1b1bf63319a.jpg",
         "intro": null,
-        "description": null,
+        "description": "The Kombat Pack is the best way to upgrade your Mortal Kombat Standard Edition. The Kombat Pack includes:\n\u2022 6 new add-on playable characters including Shang Tsung, Nightwolf, Terminator T-800, Sindel, The Joker and Spawn\n\u2022 1 week early access to all add-on characters\n\u2022 Skins & gear sets with each add-on character\n\u2022 6 themed skin packs including the Klassic Arcade Ninjas, Klassic Arcade Fighters and more",
         "languages": null,
-        "size": 0
+        "size": 54525952
     },
     "70070000006021": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Big Block DLC",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20190509,
         "nsuId": 70070000006021,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "In-Game Purchases"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 6,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
-        "intro": null,
-        "description": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/0a4913047805597c08d5d5ef1fa66ce82ed949bea1cff610758f8dc673d09cd3.jpg",
+        "intro": "Get the Big Block DLC for additional game modes!",
+        "description": "Get additional modes for Tetris\u00ae 99 as they are released with the one-time purchase of this DLC.* Game modes included are: \n\u2022\tCPU Battle \u2013 Play Tetris 99 offline against 98 CPU players\n\u2022\tMarathon \u2013 Challenge yourself in this offline mode to clear the most lines and score big\n\u2022\t2P Share Battle \u2013 pass a Joy-Con controller to a friend for a two-player game against each other and the CPU\n\u2022\tLocal Arena \u2013 Up to 8 players can get together in person to battle via local wireless multiplayer (additional games and systems required; sold separately)\n",
         "languages": null,
-        "size": 0
+        "size": 8388608
     },
     "70070000006263": {
         "id": null,
@@ -16412,27 +16711,35 @@
     "70070000006281": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "DRAGON QUEST BUILDERS\u2122 2: Season Pass",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20190712,
         "nsuId": 70070000006281,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Alcohol Reference",
+            "Comic Mischief",
+            "Fantasy Violence",
+            "Mild Blood",
+            "Mild Language",
+            "Suggestive Themes",
+            "Users Interact"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 10,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/68cfe5f7d2732d989994624e2caa8c4034c5ddaff5a275e15582f36a2606113f.jpg",
         "intro": null,
-        "description": null,
+        "description": "This pass includes the following downloadable content:\n\u2022\tHotto Stuff Pack\n\u2022\tAquarium Pack\n\u2022\tModernist Pack\nEach pack will also be released individually.\n",
         "languages": null,
-        "size": 0
+        "size": 16777216
     },
     "70070000006364": {
         "id": null,
@@ -16749,27 +17056,34 @@
     "70070000007321": {
         "id": null,
         "rightsId": null,
-        "name": null,
+        "name": "Champion\u2019s Pack",
         "version": null,
         "key": null,
         "isDemo": false,
         "region": null,
-        "releaseDate": null,
+        "releaseDate": 20190821,
         "nsuId": 70070000007321,
         "category": null,
-        "ratingContent": null,
+        "ratingContent": [
+            "Crude Humor",
+            "Fantasy Violence",
+            "Mild Blood",
+            "Simulated Gambling",
+            "Suggestive Themes",
+            "Use of Alcohol"
+        ],
         "numberOfPlayers": null,
-        "rating": null,
+        "rating": 13,
         "developer": null,
-        "publisher": null,
+        "publisher": "Nintendo",
         "frontBoxArt": null,
         "iconUrl": null,
         "screenshots": null,
-        "bannerUrl": null,
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/8bec94bf64d06868944d5080f2c3bf6704c601ee59fabd6a40aaad78de010894.jpg",
         "intro": null,
-        "description": null,
+        "description": "Download the Champion's Pack DLC* which includes 5 sets of items that will aid and customize your grand and epic quest to save the world of Erdrea!\n\u2022\tVests of Success Set \u2013 A special gift to thank you for playing the game! A pair of garments said to bring good fortune to anyone who wears them!\n\u2022\tWolf Wear \u2013 A special gift to thank you for playing the game! A cool costume that makes Erik look more charismatic than ever!\n\u2022\tBaby Boar Set \u2013 A special gift to thank you for playing the game! Have some fun with one of Veronica\u2019s favorite costumes!\n\u2022\tTrodain Set \u2013 A special gift to thank you for playing the game! Try on some traveler\u2019s togs that will show our hero in another light!\n\u2022\tHappy Adventurer Set \u2013 A special gift to thank you for playing the game! Packed full of helpful items that are sure to come in handy over the course of your adventures!\n",
         "languages": null,
-        "size": 0
+        "size": 20971520
     },
     "70070000007782": {
         "id": null,
@@ -16900,7 +17214,7 @@
         "intro": "The Future Is Now.\u00a0 Are You With Us?",
         "description": "Overwatch: Legendary Edition includes:\n\u2022\tRedeemable code for Nintendo Switch Online Individual Membership 3-month subscription (Terms apply. nintendo.com/switch-online)\n\u2022\tThe full game\n\u2022\t5 Legendary Hero Skins\n\u2022\t5 Epic Hero Skins\n\u2022\t5 Origin Hero Skins\nBegin your Watch\nJoin the fight for the future in the world of Overwatch\u00ae and choose your hero from a diverse cast of soldiers, scientists, adventurers, and oddities. Bend time, defy physics, and unleash a dizzying array of extraordinary powers and weapons. Engage your enemies in iconic locations from around the globe in the ultimate team-based shooter.\nExperience the Extraordinary\nSpeed up and slow down time. Rain destruction from above in an experimental, jet-powered armor suit. Stalk your prey as a wraith-like assassin that can appear anywhere, anytime. Unleash powers such as Dragonstrike, Transcendence, Graviton Surge, and so much more. Every hero has a unique set of devastating, game-changing abilities.\nPlay Heroes, Not Classes\nEvery hero has a unique perspective on the battlefield and a story behind how they arrived there. You are a champion of a bygone age wielding his punishing rocket hammer in the service of honor, a robotic monk committed to healing the rifts between man and machine, a genetically engineered gorilla who also happens to be a brilliant scientist, and many, many more.\nFight for the Future...Together\nTeamwork is imperative for survival as you enter the fight with friends and comrades. Careful coordination will prove the difference between victory and defeat as your team combines the formidable powers at your disposal to devastating effect.\nShift Your Perspective\nJust when it seems like your team is destined to go down in defeat, switch heroes on the fly and change the course of the battle. But don\u2019t forget that your opponents can do the same. Master the game within the game as both teams shift strategies and change heroes to try to gain the upper hand.\nThe World Is Your Battlefield\nProtect the secrets of the mysterious Temple of Anubis in Egypt, safely escort an EMP device through King\u2019s Row in London, and do battle at many other unique locations. Every map has its own distinct feel with unique gameplay and team-based objectives.",
         "languages": null,
-        "size": 16101933056
+        "size": 12054429696
     },
     "70070000008561": {
         "id": null,
@@ -17396,9 +17710,9 @@
         "screenshots": null,
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c3197a588b8eba43119f6e17bb19184a320a28269420987f6b52f56ea2a93d1e.jpg",
         "intro": null,
-        "description": "Includes Mortal Kombat\u00a011, Kombat Pack and MK11: Aftermath. \n\nPurchase early & get Eternal Klash Skin Pack.\n\nIn the original MK11 cinematic story, take on the role of Earthrealm's protectors as a menacing new foe bends the forces of time, threatening to turn the tide and rewrite their own dark history. Aftermath kontinues the critically acclaimed storyline in an all-new adventure. Fragile alliances are tested and the fate of two worlds hang in the balance. Now is the time to forge a new history. \n\n\u2022 Experience the original MK11 story and Aftermath, the brand new story conclusion\n\u2022 Play the entire MK11 roster incl. new fighters Sheeva & Fujin\n\u2022 Includes every guest feat. newly added RoboCop and Kombat Pack's Terminator, Spawn & The Joker \n\u2022 All-New Friendships, Stages & Stage Fatalities",
+        "description": "Includes Mortal Kombat\u00a011, Kombat Pack and MK11: Aftermath. \n\nIn the original MK11 cinematic story, take on the role of Earthrealm's protectors as a menacing new foe bends the forces of time, threatening to turn the tide and rewrite their own dark history. Aftermath kontinues the critically acclaimed storyline in an all-new adventure. Fragile alliances are tested and the fate of two worlds hang in the balance. Now is the time to forge a new history. \n\n\u2022 Experience the original MK11 story and Aftermath, the brand new story conclusion\n\u2022 Play the entire MK11 roster incl. new fighters Sheeva & Fujin\n\u2022 Includes every guest feat. newly added RoboCop and Kombat Pack's Terminator, Spawn & The Joker \n\u2022 All-New Friendships, Stages & Stage Fatalities",
         "languages": null,
-        "size": 27052212224
+        "size": 32831963136
     },
     "70070000010161": {
         "id": null,
